@@ -1,14 +1,15 @@
 The Holy Kingdom of Halmyr is a Kingdom located in easter [[Valloryn]]. Halmyr is represented by a Radiant Sun with a Face.
 
 ### Basic Info
-**Coat of Arms:** A Radiant Sun with a Face
-**Demonym:** Halmyran
-**Location:** The [[Holy Land]]
-**Capital:** [[Sanctum Octavum]]
-**Religion:** The [[Octavian Faith]]
-**Government:** Theocratic Monarchy
+- **Coat of Arms:** A Radiant Sun with a Face
+- **Demonym:** Halmyran
+- **Location:** The [[Holy Land]]
+- **Capital:** [[Sanctum Octavum]]
+- **Religion:** The [[Octavian Faith]]
+- **Government:** Theocratic Monarchy
  - **Pope:** [[Asenia Fasro]]
- **Formation:** 
+ 
+#### Formation
  + Believed to be first settled around ~200 P.C
  + Founded in 0 P.D
 

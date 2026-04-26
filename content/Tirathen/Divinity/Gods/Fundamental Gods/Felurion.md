@@ -2,22 +2,22 @@
 
 The First Star is a member of the [[Celestial Pantheon]], specifically one of the Eight Makers that created a sentient creature. Felurion created the [[Elf]].
 
-**Edicts:** aid fellow travellers, explore new places, express yourself through art and song, find what life has to offer.
-**Anathema:** foster despair or terror in the innocent, cast [nightmare](https://2e.aonprd.com/Spells.aspx?ID=208) or use similar magic to corrupt dreams, engage in bigoted behaviour.
-**Areas of Concern:** dreams, luck, stars, and travellers
-**Religious Symbol:** butterfly
-**Sacred Animal:** butterfly
-**Sacred Colour(s):** blue, white
-**Pantheons/Covenants:** [[Celestial Pantheon]]
+- **Edicts:** aid fellow travellers, explore new places, express yourself through art and song, find what life has to offer.
+- **Anathema:** foster despair or terror in the innocent, cast [nightmare](https://2e.aonprd.com/Spells.aspx?ID=208) or use similar magic to corrupt dreams, engage in bigoted behaviour.
+- **Areas of Concern:** dreams, luck, stars, and travellers
+- **Religious Symbol:** butterfly
+- **Sacred Animal:** butterfly
+- **Sacred Colour(s):** blue, white
+- **Pantheons/Covenants:** [[Celestial Pantheon]]
 
 ### Devotee Benefits
-**Divine Attribute:** Charisma or Dexterity
-**Divine Font:** [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
-**Divine Sanctification:** can choose holy
-**Divine Skill:** [Acrobatics](https://2e.aonprd.com/Skills.aspx?ID=34)
-**Favoured Weapon:** [starknife](https://2e.aonprd.com/Weapons.aspx?ID=399)
-**Domains:** [dreams](https://2e.aonprd.com/Domains.aspx?ID=72), [luck](https://2e.aonprd.com/Domains.aspx?ID=81), [moon](https://2e.aonprd.com/Domains.aspx?ID=84), [travel](https://2e.aonprd.com/Domains.aspx?ID=93)
-**Cleric Spells:** 1st: [sleep](https://2e.aonprd.com/Spells.aspx?ID=1675), 4th: [translocate](https://2e.aonprd.com/Spells.aspx?ID=1724), 5th: [dreaming potential](https://2e.aonprd.com/Spells.aspx?ID=1504)
+- **Divine Attribute:** Charisma or Dexterity
+- **Divine Font:** [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
+- **Divine Sanctification:** can choose holy
+- **Divine Skill:** [Acrobatics](https://2e.aonprd.com/Skills.aspx?ID=34)
+- **Favoured Weapon:** [starknife](https://2e.aonprd.com/Weapons.aspx?ID=399)
+- **Domains:** [dreams](https://2e.aonprd.com/Domains.aspx?ID=72), [luck](https://2e.aonprd.com/Domains.aspx?ID=81), [moon](https://2e.aonprd.com/Domains.aspx?ID=84), [travel](https://2e.aonprd.com/Domains.aspx?ID=93)
+- **Cleric Spells:** 1st: [sleep](https://2e.aonprd.com/Spells.aspx?ID=1675), 4th: [translocate](https://2e.aonprd.com/Spells.aspx?ID=1724), 5th: [dreaming potential](https://2e.aonprd.com/Spells.aspx?ID=1504)
 
 ### Divine Intercession
 Felurion favours those who follow their hearts and whims without bringing harm to others.

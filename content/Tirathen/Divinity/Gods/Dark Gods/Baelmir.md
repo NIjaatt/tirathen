@@ -2,22 +2,22 @@
 
 The Dark prince is a member of the [[Dark Pantheon]], and is a close aid to [[Asmodeus]] as one of the Eight Lords. He rose to divinity during [[The Age of Calamity]] alongside his Twin Sister, [[Nymara]].
 
-**Edicts:** bring pain to the world, mutilate your body
-**Anathema:** create permanent or long-lasting sources of light, provide comfort to those who suffer
-**Areas of Concern:** darkness, envy, loss, and pain
-**Religious Symbol:** chained skull
-**Sacred Animal:** bat
-**Sacred Colour(s):** dark gray, red
-**Pantheons/Covenants:** [[Dark Pantheon]]
+- **Edicts:** bring pain to the world, mutilate your body
+- **Anathema:** create permanent or long-lasting sources of light, provide comfort to those who suffer
+- **Areas of Concern:** darkness, envy, loss, and pain
+- **Religious Symbol:** chained skull
+- **Sacred Animal:** bat
+- **Sacred Colour(s):** dark gray, red
+- **Pantheons/Covenants:** [[Dark Pantheon]]
 
 ### Devotee Benefits
-**Divine Attribute:** Constitution or Wisdom
-**Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146)
-**Divine Sanctification:** can choose unholy
-**Divine Skill:** [Intimidation](https://2e.aonprd.com/Skills.aspx?ID=40)
-**Favoured Weapon:** [spiked chain](https://2e.aonprd.com/Weapons.aspx?ID=417)
-**Domains:** [ambition](https://2e.aonprd.com/Domains.aspx?ID=64), [darkness](https://2e.aonprd.com/Domains.aspx?ID=69), [destruction](https://2e.aonprd.com/Domains.aspx?ID=71), [pain](https://2e.aonprd.com/Domains.aspx?ID=87)
-**Cleric Spells:** 1st: [phantom pain](https://2e.aonprd.com/Spells.aspx?ID=1632), 3rd: [wall of thorns](https://2e.aonprd.com/Spells.aspx?ID=1752), 5th: [umbral journey](https://2e.aonprd.com/Spells.aspx?ID=1729)
+- **Divine Attribute:** Constitution or Wisdom
+- **Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146)
+- **Divine Sanctification:** can choose unholy
+- **Divine Skill:** [Intimidation](https://2e.aonprd.com/Skills.aspx?ID=40)
+- **Favoured Weapon:** [spiked chain](https://2e.aonprd.com/Weapons.aspx?ID=417)
+- **Domains:** [ambition](https://2e.aonprd.com/Domains.aspx?ID=64), [darkness](https://2e.aonprd.com/Domains.aspx?ID=69), [destruction](https://2e.aonprd.com/Domains.aspx?ID=71), [pain](https://2e.aonprd.com/Domains.aspx?ID=87)
+- **Cleric Spells:** 1st: [phantom pain](https://2e.aonprd.com/Spells.aspx?ID=1632), 3rd: [wall of thorns](https://2e.aonprd.com/Spells.aspx?ID=1752), 5th: [umbral journey](https://2e.aonprd.com/Spells.aspx?ID=1729)
 
 ### Divine Intercession
 Baelmir rarely intervenes directly in mortal affairs, but when he does take a personal interest in a creature, the effect is as terrible as the god himself.

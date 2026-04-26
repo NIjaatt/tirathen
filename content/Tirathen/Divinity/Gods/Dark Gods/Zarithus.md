@@ -2,22 +2,22 @@
 
 The Gossamer King is a member of the [[Dark Pantheon]], and is one of the Four Rulers that presides over the Pantheon.
 
-**Edicts:** corrupt pieces of land, water sources, and communities; infest the weak; spread and nurture disease
-**Anathema:** aid in ending a plague or infection, destroy something out of hand when you could have instead corrupted it or leeched off it first
-**Areas of Concern:** infection, insects, parasites, stagnation
-**Religious Symbol:** mosquito in profile
-**Sacred Animal:** mosquito
-**Sacred Colour(s):** Light Gray, red
-**Pantheons/Covenants:** [[Dark Pantheon]]
+- **Edicts:** corrupt pieces of land, water sources, and communities; infest the weak; spread and nurture disease
+- **Anathema:** aid in ending a plague or infection, destroy something out of hand when you could have instead corrupted it or leeched off it first
+- **Areas of Concern:** infection, insects, parasites, stagnation
+- **Religious Symbol:** mosquito in profile
+- **Sacred Animal:** mosquito
+- **Sacred Colour(s):** Light Gray, red
+- **Pantheons/Covenants:** [[Dark Pantheon]]
 
 ### Devotee Benefits
-**Divine Attribute:** Constitution or Wisdom
-**Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146)
-**Divine Sanctification:** must choose unholy
-**Divine Skill:** [Nature](https://2e.aonprd.com/Skills.aspx?ID=43)
-**Favoured Weapon:** [spear](https://2e.aonprd.com/Weapons.aspx?ID=365)
-**Domains:** [air](https://2e.aonprd.com/Domains.aspx?ID=65), [death](https://2e.aonprd.com/Domains.aspx?ID=70), [destruction](https://2e.aonprd.com/Domains.aspx?ID=71), [nature](https://2e.aonprd.com/Domains.aspx?ID=85)
-**Cleric Spells:** 1st: [goblin pox](https://2e.aonprd.com/Spells.aspx?ID=1545), 1st: [vomit swarm](https://2e.aonprd.com/Spells.aspx?ID=2041), 3rd: [insect form](https://2e.aonprd.com/Spells.aspx?ID=1575)
+- **Divine Attribute:** Constitution or Wisdom
+- **Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146)
+- **Divine Sanctification:** must choose unholy
+- **Divine Skill:** [Nature](https://2e.aonprd.com/Skills.aspx?ID=43)
+- **Favoured Weapon:** [spear](https://2e.aonprd.com/Weapons.aspx?ID=365)
+- **Domains:** [air](https://2e.aonprd.com/Domains.aspx?ID=65), [death](https://2e.aonprd.com/Domains.aspx?ID=70), [destruction](https://2e.aonprd.com/Domains.aspx?ID=71), [nature](https://2e.aonprd.com/Domains.aspx?ID=85)
+- **Cleric Spells:** 1st: [goblin pox](https://2e.aonprd.com/Spells.aspx?ID=1545), 1st: [vomit swarm](https://2e.aonprd.com/Spells.aspx?ID=2041), 3rd: [insect form](https://2e.aonprd.com/Spells.aspx?ID=1575)
 
 ### Divine Intercession
 The Gossamer King’s gifts seem bizarre and cruel to those outside of his following, but his faithful crave his gifts zealously and fear his punishments.

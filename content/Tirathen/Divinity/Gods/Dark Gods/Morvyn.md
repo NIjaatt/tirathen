@@ -2,22 +2,22 @@
 
 The Scoundrel King is a member of the [[Dark Pantheon]], and is a close aid to [[Asmodeus]] as one of the Eight Lords.
 
-**Edicts:** keep your true identity secret, sacrifice anyone necessary, take every advantage in a fight, work from the shadows
-**Anathema:** allow your true identity to be connected to your foul dealings, share a secret freely, show mercy
-**Areas of Concern:** greed, murder, poison, secrets
-**Religious Symbol:** one-eyed mask
-**Sacred Animal:** spider
-**Sacred Colour(s):** black, gray
-**Pantheons/Covenants:** [[Dark Pantheon]]
+- **Edicts:** keep your true identity secret, sacrifice anyone necessary, take every advantage in a fight, work from the shadows
+- **Anathema:** allow your true identity to be connected to your foul dealings, share a secret freely, show mercy
+- **Areas of Concern:** greed, murder, poison, secrets
+- **Religious Symbol:** one-eyed mask
+- **Sacred Animal:** spider
+- **Sacred Colour(s):** black, gray
+- **Pantheons/Covenants:** [[Dark Pantheon]]
 
 ### Devotee Benefits
-**Divine Attribute:** Dexterity or Intelligence
-**Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146)
-**Divine Sanctification:** can choose unholy
-**Divine Skill:** [Stealth](https://2e.aonprd.com/Skills.aspx?ID=48)
-**Favoured Weapon:** [shortsword](https://2e.aonprd.com/Weapons.aspx?ID=398)
-**Domains:** [death](https://2e.aonprd.com/Domains.aspx?ID=70), [secrecy](https://2e.aonprd.com/Domains.aspx?ID=91), [trickery](https://2e.aonprd.com/Domains.aspx?ID=94), [wealth](https://2e.aonprd.com/Domains.aspx?ID=99)
-**Cleric Spells:** 1st: [illusory disguise](https://2e.aonprd.com/Spells.aspx?ID=1568), 2nd: [invisibility](https://2e.aonprd.com/Spells.aspx?ID=1577), 4th: [vision of death](https://2e.aonprd.com/Spells.aspx?ID=1742)
+- **Divine Attribute:** Dexterity or Intelligence
+- **Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146)
+- **Divine Sanctification:** can choose unholy
+- **Divine Skill:** [Stealth](https://2e.aonprd.com/Skills.aspx?ID=48)
+- **Favoured Weapon:** [shortsword](https://2e.aonprd.com/Weapons.aspx?ID=398)
+- **Domains:** [death](https://2e.aonprd.com/Domains.aspx?ID=70), [secrecy](https://2e.aonprd.com/Domains.aspx?ID=91), [trickery](https://2e.aonprd.com/Domains.aspx?ID=94), [wealth](https://2e.aonprd.com/Domains.aspx?ID=99)
+- **Cleric Spells:** 1st: [illusory disguise](https://2e.aonprd.com/Spells.aspx?ID=1568), 2nd: [invisibility](https://2e.aonprd.com/Spells.aspx?ID=1577), 4th: [vision of death](https://2e.aonprd.com/Spells.aspx?ID=1742)
 
 ### Divine Intercession
 Morvyn’s favour and displeasure are subtle, yet powerful.

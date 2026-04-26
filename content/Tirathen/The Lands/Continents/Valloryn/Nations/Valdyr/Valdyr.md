@@ -1,15 +1,16 @@
 Valdyr is a kingdom located in north-central [[Valloryn]]. Valdyr is represented by a rearing Lion.
 
 ### Basic Info
-**Coat of Arms:** A Rearing Lion
-**Demonym:** Valdyrian
-**Location:** The [[Heartlands]]
-**Capital:** [[Eryndor]]
-**Religion:** Majority worship the [[Octavian Faith]].
-**Government:** Absolutist Monarchy
+- **Coat of Arms:** A Rearing Lion
+- **Demonym:** Valdyrian
+- **Location:** The [[Heartlands]]
+- **Capital:** [[Eryndor]]
+- **Religion:** Majority worship the [[Octavian Faith]].
+- **Government:** Absolutist Monarchy
  - **Crowned Sword:** [[Thalagar Rathven]]
  - **Advisory Council:** [[The Five Voices]]
- **Formation:** 
+ 
+#### Formation
  + Believed to be first settled around ~400 P.C
  + Officially recognised as a sovereign nation in 1400 P.D
 

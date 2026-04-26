@@ -10,11 +10,11 @@ Life only truly began by grace of the gods at some point between 10,000 and 5,00
 ### Continents
 Tirathen currently contains two known continents amid an immense ocean and various seas.
 
-[[Valloryn]], is Tirathen's largest continent, spanning much of the world's east, spanning from the far north, to the deep south.
+- [[Valloryn]], is Tirathen's largest continent, spanning much of the world's east, spanning from the far north, to the deep south.
 
-[[Nel'Doreth]], a continent easily forgotten. The great tides of the Dividing Sea sometimes cover this land entirely, hiding the continent for decades at a time. It has recently resurfaced once again.
+- [[Nel'Doreth]], a continent easily forgotten. The great tides of the Dividing Sea sometimes cover this land entirely, hiding the continent for decades at a time. It has recently resurfaced once again.
 
-[[Telmaria]], is a lush continent west of Valloryn, separated by the Dividing Sea.
+- [[Telmaria]], is a lush continent west of Valloryn, separated by the Dividing Sea.
 
 ### Oceans
 Four great oceans cover the remainder of Tirathen.

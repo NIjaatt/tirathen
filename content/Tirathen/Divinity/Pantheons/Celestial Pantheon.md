@@ -7,22 +7,22 @@ The Celestial Pantheon is made up of two groups, being the Eight Makers, and the
 ### The Eight Makers
 The Eight Makers are the Celestial Gods that each created an Ancestry to call their own. 
 
-[[Asurion]], the All-Seeing Eye
-[[Barúm]], the Father of Creation
-[[Felurion]], the First Star
-[[Fenrith]], the Old Hunter
-[[Orilyn]], the Gentle Guide
-[[Radia]], the Great Mother
-[[Sarithar]], the Waybringer
-[[Seralyn]], the Unquenchable
+- [[Asurion]], the All-Seeing Eye
+- [[Barúm]], the Father of Creation
+- [[Felurion]], the First Star
+- [[Fenrith]], the Old Hunter
+- [[Orilyn]], the Gentle Guide
+- [[Radia]], the Great Mother
+- [[Sarithar]], the Waybringer
+- [[Seralyn]], the Unquenchable
 
 ### The Four Watchers
 The Four Watchers are the Celestial Gods that did not make an Ancestry or creature. Instead choosing to oversee their siblings work.
 
-[[Aeyora]], the Lady of Valour
-[[Nephira]], the Gray Lady
-[[Oranthys]], the Golden Judge
-[[Zarion]], the Enlightened One
+- [[Aeyora]], the Lady of Valour
+- [[Nephira]], the Gray Lady
+- [[Oranthys]], the Golden Judge
+- [[Zarion]], the Enlightened One
 
 
 

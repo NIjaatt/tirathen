@@ -2,22 +2,22 @@ Imprisoned since [[The Age of Creation]], the Outer God **Nhalgorath** (pronounc
 
 Nhalgorath has many names; the Great Destroyer, the Enemy of All, the Unmaker. It is not a member of any Pantheon. For every god, Celestial, Dark and Old alike, all agree on one single thing; Nhalgorath cannot be released from it's prison.
 
-**Edicts:** destroy all things, free Nhalgorath from it's prison
-**Anathema:** create something new, let material ties restrain you, torture a victim or otherwise delay its destruction
-**Areas of Concern:** destruction, disaster, and wrath
-**Religious Symbol:** fanged spider
-**Sacred Animal:** None
-**Sacred Colour(s):** None
-**Pantheons/Covenants:** None
+- **Edicts:** destroy all things, free Nhalgorath from it's prison
+- **Anathema:** create something new, let material ties restrain you, torture a victim or otherwise delay its destruction
+- **Areas of Concern:** destruction, disaster, and wrath
+- **Religious Symbol:** fanged spider
+- **Sacred Animal:** None
+- **Sacred Colour(s):** None
+- **Pantheons/Covenants:** None
 
 ### Devotee Benefits
-**Divine Attribute:** Strength or Constitution
-**Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146)
-**Divine Sanctification:** must choose unholy
-**Divine Skill:** [Athletics](https://2e.aonprd.com/Skills.aspx?ID=36)
-**Favoured Weapon:** [greataxe](https://2e.aonprd.com/Weapons.aspx?ID=376)
-**Domains:** [air](https://2e.aonprd.com/Domains.aspx?ID=65), [destruction](https://2e.aonprd.com/Domains.aspx?ID=71), [earth](https://2e.aonprd.com/Domains.aspx?ID=73), [zeal](https://2e.aonprd.com/Domains.aspx?ID=100)
-**Cleric Spells:** 1st: [breathe fire](https://2e.aonprd.com/Spells.aspx?ID=1457), 2nd: [enlarge](https://2e.aonprd.com/Spells.aspx?ID=1514), 6th: [disintegrate](https://2e.aonprd.com/Spells.aspx?ID=1492)
+- **Divine Attribute:** Strength or Constitution
+- **Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146)
+- **Divine Sanctification:** must choose unholy
+- **Divine Skill:** [Athletics](https://2e.aonprd.com/Skills.aspx?ID=36)
+- **Favoured Weapon:** [greataxe](https://2e.aonprd.com/Weapons.aspx?ID=376)
+- **Domains:** [air](https://2e.aonprd.com/Domains.aspx?ID=65), [destruction](https://2e.aonprd.com/Domains.aspx?ID=71), [earth](https://2e.aonprd.com/Domains.aspx?ID=73), [zeal](https://2e.aonprd.com/Domains.aspx?ID=100)
+- **Cleric Spells:** 1st: [breathe fire](https://2e.aonprd.com/Spells.aspx?ID=1457), 2nd: [enlarge](https://2e.aonprd.com/Spells.aspx?ID=1514), 6th: [disintegrate](https://2e.aonprd.com/Spells.aspx?ID=1492)
 
 ### Divine Intercession
 Nhalgorath's imprisonment means it can almost never intercede on Tirathen, but yet Enemy of All's might is so powerful that the god's profane influence can leak through it's prison. It is as likely to curse those who draw it's attention as it is to reward them, though great enough acts of violence and destruction may earn it's favour.

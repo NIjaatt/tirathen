@@ -2,22 +2,22 @@
 
 The Lady of Despair is a member of the [[Dark Pantheon]], and is a close aid to [[Zarithus]] as one of the Eight Lords.
 
-**Edicts:** become undead upon death, create or protect the undead, sate your appetites
-**Anathema:** deny your appetites, destroy undead of no harm to you, sacrifice your life
-**Areas of Concern:** disease, gluttony, and undeath
-**Religious Symbol:** skull-decorated fly
-**Sacred Animal:** fly
-**Sacred Colour(s):** red, green
-**Pantheons/Covenants:** [[Dark Pantheon]]
+- **Edicts:** become undead upon death, create or protect the undead, sate your appetites
+- **Anathema:** deny your appetites, destroy undead of no harm to you, sacrifice your life
+- **Areas of Concern:** disease, gluttony, and undeath
+- **Religious Symbol:** skull-decorated fly
+- **Sacred Animal:** fly
+- **Sacred Colour(s):** red, green
+- **Pantheons/Covenants:** [[Dark Pantheon]]
 
 ### Devotee Benefits
-**Divine Attribute:** Constitution or Wisdom
-**Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146)
-**Divine Sanctification:** must choose unholy
-**Divine Skill:** [Intimidation](https://2e.aonprd.com/Skills.aspx?ID=40)
-**Favoured Weapon:** [scythe](https://2e.aonprd.com/Weapons.aspx?ID=394)
-**Domains:** [indulgence](https://2e.aonprd.com/Domains.aspx?ID=79), [magic](https://2e.aonprd.com/Domains.aspx?ID=82), [might](https://2e.aonprd.com/Domains.aspx?ID=83), [undeath](https://2e.aonprd.com/Domains.aspx?ID=97)
-**Cleric Spells:** 1st: [goblin pox](https://2e.aonprd.com/Spells.aspx?ID=1545), 2nd: [false vitality](https://2e.aonprd.com/Spells.aspx?ID=1523), 7th: [mask of terror](https://2e.aonprd.com/Spells.aspx?ID=1595)
+- **Divine Attribute:** Constitution or Wisdom
+- **Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146)
+- **Divine Sanctification:** must choose unholy
+- **Divine Skill:** [Intimidation](https://2e.aonprd.com/Skills.aspx?ID=40)
+- **Favoured Weapon:** [scythe](https://2e.aonprd.com/Weapons.aspx?ID=394)
+- **Domains:** [indulgence](https://2e.aonprd.com/Domains.aspx?ID=79), [magic](https://2e.aonprd.com/Domains.aspx?ID=82), [might](https://2e.aonprd.com/Domains.aspx?ID=83), [undeath](https://2e.aonprd.com/Domains.aspx?ID=97)
+- **Cleric Spells:** 1st: [goblin pox](https://2e.aonprd.com/Spells.aspx?ID=1545), 2nd: [false vitality](https://2e.aonprd.com/Spells.aspx?ID=1523), 7th: [mask of terror](https://2e.aonprd.com/Spells.aspx?ID=1595)
 
 ### Divine Intercession
 Ythiris interferes in mortal affairs to fuel her own self-gratification and obsession with observing new sensations.

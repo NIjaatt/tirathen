@@ -1,14 +1,15 @@
 The Free Tribes are a nation located in far north-western [[Valloryn]]. The Free Tribes are represented by a winged dire wolf mid-howl.
 
 ### Basic Info
-**Coat of Arms:** A Winged Dire Wolf Mid-Howl.
-**Demonym:** Northerner
-**Location:** [[Frozen North]]
-**Capital:** -
-**Religion:** Majority worship the [[Old Faith]]
-**Government:** War Communism
+- **Coat of Arms:** A Winged Dire Wolf Mid-Howl.
+- **Demonym:** Northerner
+- **Location:** [[Frozen North]]
+- **Capital:** -
+- **Religion:** Majority worship the [[Old Faith]]
+- **Government:** War Communism
 + **High Chieftain:** [[Valdris]]
- **Formation:** 
+ 
+#### Formation
  + Believed to be first settled around ~800 P.C
  + Officially recognised as a sovereign nation in 13 A.C
 

@@ -2,22 +2,22 @@
 
 The Old Strife is a member of the [[Heroic Pantheon]], and rose to divinity during [[The Age of Calamity]] alongside his younger brother, [[Garethor]].
 
-**Edicts:** attain victory in fair combat, push your limits, wear armour in combat
-**Anathema:** kill prisoners or surrendering foes, prevent conflict through negotiation, win a battle through underhanded tactics or indirect magic
-**Areas of Concern:** battle, strength, and weapons
-**Religious Symbol:** Sword in mountain
-**Sacred Animal:** Rhinoceros
-**Sacred Colour(s):** Gray, Red
-**Pantheons/Covenants:** [[Heroic Pantheon]]
+- **Edicts:** attain victory in fair combat, push your limits, wear armour in combat
+- **Anathema:** kill prisoners or surrendering foes, prevent conflict through negotiation, win a battle through underhanded tactics or indirect magic
+- **Areas of Concern:** battle, strength, and weapons
+- **Religious Symbol:** Sword in mountain
+- **Sacred Animal:** Rhinoceros
+- **Sacred Colour(s):** Gray, Red
+- **Pantheons/Covenants:** [[Heroic Pantheon]]
 
 ### Devotee Benefits
-**Divine Attribute:** Strength or Constitution
-**Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146) or [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
-**Divine Sanctification:** can choose holy or unholy
-**Divine Skill:** [Athletics](https://2e.aonprd.com/Skills.aspx?ID=36)
-**Favoured Weapon:** [greatsword](https://2e.aonprd.com/Weapons.aspx?ID=379)
-**Domains:** [confidence](https://2e.aonprd.com/Domains.aspx?ID=67), [destruction](https://2e.aonprd.com/Domains.aspx?ID=71), [might](https://2e.aonprd.com/Domains.aspx?ID=83), [zeal](https://2e.aonprd.com/Domains.aspx?ID=100)
-**Cleric Spells:** 1st: [sure strike](https://2e.aonprd.com/Spells.aspx?ID=1709), 2nd: [enlarge](https://2e.aonprd.com/Spells.aspx?ID=1514), 4th: [weapon storm](https://2e.aonprd.com/Spells.aspx?ID=1758)
+- **Divine Attribute:** Strength or Constitution
+- **Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146) or [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
+- **Divine Sanctification:** can choose holy or unholy
+- **Divine Skill:** [Athletics](https://2e.aonprd.com/Skills.aspx?ID=36)
+- **Favoured Weapon:** [greatsword](https://2e.aonprd.com/Weapons.aspx?ID=379)
+- **Domains:** [confidence](https://2e.aonprd.com/Domains.aspx?ID=67), [destruction](https://2e.aonprd.com/Domains.aspx?ID=71), [might](https://2e.aonprd.com/Domains.aspx?ID=83), [zeal](https://2e.aonprd.com/Domains.aspx?ID=100)
+- **Cleric Spells:** 1st: [sure strike](https://2e.aonprd.com/Spells.aspx?ID=1709), 2nd: [enlarge](https://2e.aonprd.com/Spells.aspx?ID=1514), 4th: [weapon storm](https://2e.aonprd.com/Spells.aspx?ID=1758)
 
 ### Divine Intercession
 Branthor views things very simply: one either fights and earns his favour, or one is a coward and receives only scorn.

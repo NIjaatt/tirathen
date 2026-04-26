@@ -1,13 +1,14 @@
 Nirryth is located in south-western [[Valloryn]]. Nirryth is not a nation, but a recognised territory.
 
 ### Basic Info
-**Coat of Arms:** None
-**Demonym:** None
-**Location:** [[Isle of Nirryth]]
-**Capital:** -
-**Religion:** Circumstantial
-**Government:** None
- **Formation:** 
+- **Coat of Arms:** None
+- **Demonym:** None
+- **Location:** [[Isle of Nirryth]]
+- **Capital:** -
+- **Religion:** Circumstantial
+- **Government:** None
+ 
+#### Formation
  + First settled around ~1337 A.C
  + Officially recognised as a sovereign nation in 1340 A.C
 

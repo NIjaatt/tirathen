@@ -3,9 +3,9 @@ The Wayfarer Guild is a non-governmental organisation acting to keep the peace a
 Its members are known as Wayfarers.
 
 ### Basic Info
-**Symbol:** A Shield with Wings
-**Key People:** Wayfarers
-**Founded in:** 554 A.C
+- **Symbol:** A Shield with Wings
+- **Key People:** Wayfarers
+- **Founded in:** 554 A.C
 
 ### Background
 The Wayfarer Guild was founded in 554 A.C. Before they were united in a continent-spanning guild, bracers are said to have been active during [[the Age of Darkness]], aiding those in need.
@@ -19,11 +19,11 @@ Although Wayfarers are usually registered with specific branches, they may reque
 ### Guild Code
 The Wayfarer Guild has three long-standing codes of policy that all Wayfarers must uphold:
 
-**Basic Principle:** A Wayfarer will seek to keep safety and peace for every citizen, no matter their country or creed.
+- **Basic Principle:** A Wayfarer will seek to keep safety and peace for every citizen, no matter their country or creed.
 
-**Duty of Protection:** A Wayfarer's sworn duty is to bear the responsibility for the citizen(s)' safety.
+- **Duty of Protection:** A Wayfarer's sworn duty is to bear the responsibility for the citizen(s)' safety.
 
-**Non-Interference:** A Wayfarer will recognize a nation's sovereignty, and may not interfere with nor arrest any person of national military or political standing.
+- **Non-Interference:** A Wayfarer will recognize a nation's sovereignty, and may not interfere with nor arrest any person of national military or political standing.
 
 ### Rank
 In [[Tirathen]], a Wayfarer's strength and capabilities are measured by their ranking and determined by their resume of accomplishments and fulfilled requests.

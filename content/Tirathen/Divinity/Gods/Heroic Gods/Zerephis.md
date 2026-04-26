@@ -2,24 +2,22 @@
 
 The Welcomer is a member of the [[Heroic Pantheon]], and rose to divinity during [[The Age of Calamity]].
 
-Knowledge, Magic, Protection, Travel
-
-**Edicts:** offer to protect passageways and guide others through transitions, treat all other beings with courtesy and respect
-**Anathema:** destroy a door or block a path for personal gain, stop transition without good reason
-**Areas of Concern:** doors, portals, thresholds, traditions
-**Religious Symbol:** two faces in profile
-**Sacred Animal:** tortoise
-**Sacred Colour(s):** brown, gray
-**Pantheons/Covenants:** [[Heroic Pantheon]]
+- **Edicts:** offer to protect passageways and guide others through transitions, treat all other beings with courtesy and respect
+- **Anathema:** destroy a door or block a path for personal gain, stop transition without good reason
+- **Areas of Concern:** doors, portals, thresholds, traditions
+- **Religious Symbol:** two faces in profile
+- **Sacred Animal:** tortoise
+- **Sacred Colour(s):** brown, gray
+- **Pantheons/Covenants:** [[Heroic Pantheon]]
 
 ### Devotee Benefits
-**Divine Attribute:** Intelligence or Charisma
-**Divine Font:** [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
-**Divine Sanctification:** can choose holy
-**Divine Skill:** [Diplomacy](https://2e.aonprd.com/Skills.aspx?ID=39)
-**Favoured Weapon:** [dagger](https://2e.aonprd.com/Weapons.aspx?ID=358)
-**Domains:** [knowledge](https://2e.aonprd.com/Domains.aspx?ID=80), [magic](https://2e.aonprd.com/Domains.aspx?ID=82), [protection](https://2e.aonprd.com/Domains.aspx?ID=90), [travel](https://2e.aonprd.com/Domains.aspx?ID=93)
-**Cleric Spells:** 1st: [anticipate peril](https://2e.aonprd.com/Spells.aspx?ID=2343), 2nd: [knock](https://2e.aonprd.com/Spells.aspx?ID=1581), 4th: [translocate](https://2e.aonprd.com/Spells.aspx?ID=1724)
+- **Divine Attribute:** Intelligence or Charisma
+- **Divine Font:** [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
+- **Divine Sanctification:** can choose holy
+- **Divine Skill:** [Diplomacy](https://2e.aonprd.com/Skills.aspx?ID=39)
+- **Favoured Weapon:** [dagger](https://2e.aonprd.com/Weapons.aspx?ID=358)
+- **Domains:** [knowledge](https://2e.aonprd.com/Domains.aspx?ID=80), [magic](https://2e.aonprd.com/Domains.aspx?ID=82), [protection](https://2e.aonprd.com/Domains.aspx?ID=90), [travel](https://2e.aonprd.com/Domains.aspx?ID=93)
+- **Cleric Spells:** 1st: [anticipate peril](https://2e.aonprd.com/Spells.aspx?ID=2343), 2nd: [knock](https://2e.aonprd.com/Spells.aspx?ID=1581), 4th: [translocate](https://2e.aonprd.com/Spells.aspx?ID=1724)
 
 ### Divine Intercession
 The Welcomer is a patient god that rewards his followers. Incurring his wrath through discourtesy, lack of respect or intentionally making doors unpassable for any reason other than preventing harm can lead to reprimands that range from annoying to frustrating.

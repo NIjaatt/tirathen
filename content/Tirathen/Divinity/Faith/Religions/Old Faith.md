@@ -1,9 +1,9 @@
 The Old Faith is a polytheistic religion formed around the gods of the [[Old Pantheon]] and the living world they govern.
 
 ### Basic Info
-**Symbol:** A Winding Pathway that leads to a Tree
-**Key Figures:** Druids, Shamans
-**Founded in:** Unknown. Believed early 50s P.C
+- **Symbol:** A Winding Pathway that leads to a Tree
+- **Key Figures:** Druids, Shamans
+- **Founded in:** Unknown. Believed early 50s P.C
 
 ### Background
 The Old Faith is by far the oldest practiced belief system on [[Tirathen]], predating the [[Octavian Faith]] and most other religions by centuries, as well as the arrival of Humans by longer still. Where the Octavian Faith offers doctrine, hierarchy and the comforts of institutional belonging, the Old Faith offers a relationship with the world as it actually is; Chaotic, indifferent and alive.

@@ -2,22 +2,22 @@
 
 The Vampire Queen is a member of the [[Dark Pantheon]], and is a close aid to [[Dravathis]] as one of the Eight Lords.
 
-**Edicts:** Drink blood, seek vampirism, cause bleed damage
-**Anathema:** Expose vampires, heal a bloody wound without drinking blood from it first
-**Areas of Concern:** Blood, cannibalism, vampires
-**Religious Symbol:** Crimson fanged skull rune
-**Sacred Animal:** Vampire bat
-**Sacred Colour(s):** Red
-**Pantheons/Covenants:** [[Dark Pantheon]]
+- **Edicts:** Drink blood, seek vampirism, cause bleed damage
+- **Anathema:** Expose vampires, heal a bloody wound without drinking blood from it first
+- **Areas of Concern:** Blood, cannibalism, vampires
+- **Religious Symbol:** Crimson fanged skull rune
+- **Sacred Animal:** Vampire bat
+- **Sacred Colour(s):** Red
+- **Pantheons/Covenants:** [[Dark Pantheon]]
 
 ### Devotee Benefits
-**Divine Attribute:** Strength or Charisma
-**Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146)
-**Divine Sanctification:** must choose unholy
-**Divine Skill:** [Diplomacy](https://2e.aonprd.com/Skills.aspx?ID=39)
-**Favoured Weapon:** [rapier](https://2e.aonprd.com/Weapons.aspx?ID=391)
-**Domains:** [darkness](https://2e.aonprd.com/Domains.aspx?ID=69), [indulgence](https://2e.aonprd.com/Domains.aspx?ID=79), [nightmares](https://2e.aonprd.com/Domains.aspx?ID=86), [undeath](https://2e.aonprd.com/Domains.aspx?ID=97)
-**Cleric Spells:** 1st: [charm](https://2e.aonprd.com/Spells.aspx?ID=1463), 4th: [vapor form](https://2e.aonprd.com/Spells.aspx?ID=1738), 7th: [mask of terror](https://2e.aonprd.com/Spells.aspx?ID=1595)
+- **Divine Attribute:** Strength or Charisma
+- **Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146)
+- **Divine Sanctification:** must choose unholy
+- **Divine Skill:** [Diplomacy](https://2e.aonprd.com/Skills.aspx?ID=39)
+- **Favoured Weapon:** [rapier](https://2e.aonprd.com/Weapons.aspx?ID=391)
+- **Domains:** [darkness](https://2e.aonprd.com/Domains.aspx?ID=69), [indulgence](https://2e.aonprd.com/Domains.aspx?ID=79), [nightmares](https://2e.aonprd.com/Domains.aspx?ID=86), [undeath](https://2e.aonprd.com/Domains.aspx?ID=97)
+- **Cleric Spells:** 1st: [charm](https://2e.aonprd.com/Spells.aspx?ID=1463), 4th: [vapor form](https://2e.aonprd.com/Spells.aspx?ID=1738), 7th: [mask of terror](https://2e.aonprd.com/Spells.aspx?ID=1595)
 
 ### Divine Intercession
 Thessia is known to have never once granted a boon or curse to mortals.

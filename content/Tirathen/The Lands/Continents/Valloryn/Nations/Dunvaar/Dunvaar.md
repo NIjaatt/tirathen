@@ -1,15 +1,16 @@
 The Dunvaar Commonwealth is nation located in far north-eastern [[Valloryn]]. Dunvaar is represented by a Gauntlet holding a Gear Cog.
 
 ### Basic Info
-**Coat of Arms:** A Gauntlet holding a Gear Cog.
-**Demonym:** Dunvaaran
-**Location:** [[Iron North]]
-**Capital:** [[Galdruum Hold]]
-**Religion:** Majority worship the [[Octavian Faith]], mainly [[Barúm]]
-**Government:** Meritocratic Technocracy
+- **Coat of Arms:** A Gauntlet holding a Gear Cog.
+- **Demonym:** Dunvaaran
+- **Location:** [[Iron North]]
+- **Capital:** [[Galdruum Hold]]
+- **Religion:** Majority worship the [[Octavian Faith]], mainly [[Barúm]]
+- **Government:** Meritocratic Technocracy
 - Dwarven Jovr: [[Haldrum Brakfeld]]
 - Gnomish Thegin: [[Peldrivane Osselwick]]
- **Formation:** 
+
+#### Formation
  + Believed to be first settled around ~900 P.C
  + Officially recognised as a sovereign nation in 150 P.D
 

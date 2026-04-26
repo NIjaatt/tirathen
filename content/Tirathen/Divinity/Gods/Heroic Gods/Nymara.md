@@ -2,22 +2,22 @@
 
 The Eternal Rose is a member of the [[Heroic Pantheon]], and rose to divinity during [[The Age of Calamity]] alongside her Twin Brother, [[Baelmir]].
 
-**Edicts:** be peaceful, choose and perfect an art, lead by example, see the beauty in all things
-**Anathema:** destroy art or allow it to be destroyed, unless saving a life or pursuing greater art; refuse to accept surrender
-**Areas of Concern:** art, beauty, love, and music
-**Religious Symbol:** multi-coloured songbird
-**Sacred Animal:** songbird
-**Sacred Colour(s):** all
-**Pantheons/Covenants:** [[Heroic Pantheon]]
+- **Edicts:** be peaceful, choose and perfect an art, lead by example, see the beauty in all things
+- **Anathema:** destroy art or allow it to be destroyed, unless saving a life or pursuing greater art; refuse to accept surrender
+- **Areas of Concern:** art, beauty, love, and music
+- **Religious Symbol:** multi-coloured songbird
+- **Sacred Animal:** songbird
+- **Sacred Colour(s):** all
+- **Pantheons/Covenants:** [[Heroic Pantheon]]
 
 ### Devotee Benefits
-**Divine Attribute:** Wisdom or Charisma
-**Divine Font:** [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
-**Divine Sanctification:** can choose holy
-**Divine Skill:** [Crafting](https://2e.aonprd.com/Skills.aspx?ID=37) or [Performance](https://2e.aonprd.com/Skills.aspx?ID=45)
-**Favoured Weapon:** [glaive](https://2e.aonprd.com/Weapons.aspx?ID=375)
-**Domains:** [creation](https://2e.aonprd.com/Domains.aspx?ID=68), [family](https://2e.aonprd.com/Domains.aspx?ID=74), [passion](https://2e.aonprd.com/Domains.aspx?ID=88), [protection](https://2e.aonprd.com/Domains.aspx?ID=90)
-**Cleric Spells:** 1st: [dizzying colors](https://2e.aonprd.com/Spells.aspx?ID=1500), 3rd: [enthrall](https://2e.aonprd.com/Spells.aspx?ID=1516), 4th: [creation](https://2e.aonprd.com/Spells.aspx?ID=1477)
+- **Divine Attribute:** Wisdom or Charisma
+- **Divine Font:** [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
+- **Divine Sanctification:** can choose holy
+- **Divine Skill:** [Crafting](https://2e.aonprd.com/Skills.aspx?ID=37) or [Performance](https://2e.aonprd.com/Skills.aspx?ID=45)
+- **Favoured Weapon:** [glaive](https://2e.aonprd.com/Weapons.aspx?ID=375)
+- **Domains:** [creation](https://2e.aonprd.com/Domains.aspx?ID=68), [family](https://2e.aonprd.com/Domains.aspx?ID=74), [passion](https://2e.aonprd.com/Domains.aspx?ID=88), [protection](https://2e.aonprd.com/Domains.aspx?ID=90)
+- **Cleric Spells:** 1st: [dizzying colors](https://2e.aonprd.com/Spells.aspx?ID=1500), 3rd: [enthrall](https://2e.aonprd.com/Spells.aspx?ID=1516), 4th: [creation](https://2e.aonprd.com/Spells.aspx?ID=1477)
 
 ### Divine Intercession
 When creatures perform pleasing acts, such as spreading beauty, or displeasing actions, such as betraying loved ones, Nymara may respond accordingly.

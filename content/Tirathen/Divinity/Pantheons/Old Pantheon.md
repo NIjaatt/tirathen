@@ -3,7 +3,7 @@ The Old Pantheon is the assembly of the Primordial Gods. These gods are represen
 Gods of the Old Pantheon are considered to be the most interactive with the world of Tirathen due to their influence over their primary element.
 
 ### The Old Pantheon
-[[Auren]], the Emperor of Wind
-[[Lorrenil]], the Brine Empress
-[[Soloun]], the Inferno Queen
-[[Utharun]], the Fossilized King
+- [[Auren]], the Emperor of Wind
+- [[Lorrenil]], the Brine Empress
+- [[Soloun]], the Inferno Queen
+- [[Utharun]], the Fossilized King

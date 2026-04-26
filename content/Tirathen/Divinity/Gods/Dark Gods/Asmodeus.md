@@ -2,22 +2,22 @@
 
 The Betrayer is a member of the [[Dark Pantheon]], and is one of the Four Rulers that presides over the Pantheon.
 
-**Edicts:** negotiate contracts to your best advantage, rule tyrannically and torture weaker beings, show subservience to your betters
-**Anathema:** break a contract, share power with the weak, insult Asmodeus by showing mercy to your enemies
-**Areas of Concern:** contracts, pride, slavery, and tyranny
-**Religious Symbol:** red pentagram
-**Sacred Animal:** serpent
-**Sacred Colour(s):** black, red
-**Pantheons/Covenants:** [[Dark Pantheon]]
+- **Edicts:** negotiate contracts to your best advantage, rule tyrannically and torture weaker beings, show subservience to your betters
+- **Anathema:** break a contract, share power with the weak, insult Asmodeus by showing mercy to your enemies
+- **Areas of Concern:** contracts, pride, slavery, and tyranny
+- **Religious Symbol:** red pentagram
+- **Sacred Animal:** serpent
+- **Sacred Colour(s):** black, red
+- **Pantheons/Covenants:** [[Dark Pantheon]]
 
 ### Devotee Benefits
-**Divine Attribute:** any (characters who commit themselves to Asmodeus this way have their souls bound to the Betrayer for all eternity)
-**Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146)
-**Divine Sanctification:** must choose unholy
-**Divine Skill:** [Deception](https://2e.aonprd.com/Skills.aspx?ID=38)
-**Favoured Weapon:** [mace](https://2e.aonprd.com/Weapons.aspx?ID=362)
-**Domains:** [confidence](https://2e.aonprd.com/Domains.aspx?ID=67), [fire](https://2e.aonprd.com/Domains.aspx?ID=76), [trickery](https://2e.aonprd.com/Domains.aspx?ID=94), [tyranny](https://2e.aonprd.com/Domains.aspx?ID=96)
-**Cleric Spells:** 1st: [charm](https://2e.aonprd.com/Spells.aspx?ID=1463), 4th: [suggestion](https://2e.aonprd.com/Spells.aspx?ID=1693), 6th: [mislead](https://2e.aonprd.com/Spells.aspx?ID=1605)
+- **Divine Attribute:** any (characters who commit themselves to Asmodeus this way have their souls bound to the Betrayer for all eternity)
+- **Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146)
+- **Divine Sanctification:** must choose unholy
+- **Divine Skill:** [Deception](https://2e.aonprd.com/Skills.aspx?ID=38)
+- **Favoured Weapon:** [mace](https://2e.aonprd.com/Weapons.aspx?ID=362)
+- **Domains:** [confidence](https://2e.aonprd.com/Domains.aspx?ID=67), [fire](https://2e.aonprd.com/Domains.aspx?ID=76), [trickery](https://2e.aonprd.com/Domains.aspx?ID=94), [tyranny](https://2e.aonprd.com/Domains.aspx?ID=96)
+- **Cleric Spells:** 1st: [charm](https://2e.aonprd.com/Spells.aspx?ID=1463), 4th: [suggestion](https://2e.aonprd.com/Spells.aspx?ID=1693), 6th: [mislead](https://2e.aonprd.com/Spells.aspx?ID=1605)
 
 ### Divine Intercession
 Asmodeus tends to offer his gifts to entice those on the precipice of yielding to his vile temptations. His curses come most often in response to those who break contracts in his name or commit other personal insults.

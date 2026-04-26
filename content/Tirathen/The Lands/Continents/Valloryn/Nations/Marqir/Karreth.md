@@ -1,13 +1,13 @@
 Karreth is a city state located in south-central [[Valloryn]]. Karreth is represented by a comet flying over a cloaked figure.
 
 ### Basic Info
-**Coat of Arms:** A Comet flying over a Cloaked Figure.
-**Demonym:** Karrethic
-**Location:** The [[Shifting Sands]]
-**Religion:** Majority worship the [[Asurion]].
-**Government:** Noocratic Magocracy
-+ [[Pinnacle]]
- **Formation:** 
+- **Coat of Arms:** A Comet flying over a Cloaked Figure.
+- **Demonym:** Karrethic
+- **Location:** The [[Shifting Sands]]
+- **Religion:** Majority worship the [[Asurion]].
+- **Government:** Noocratic Magocracy
+
+#### Formation
  + Lands believed to be first settled around ~1220 P.D
  + Officially recognised as a city state in 10 A.C
 
@@ -29,7 +29,7 @@ As the city grew, too much work was begin placed on the four towers, distracting
 Word spread of a city floating over the Shifting Sands of Marqir. Unable to hide themselves any longer, the city of mages revealed themselves, and named their city state; Karreth.
 
 ### Geography
-Karreth is a floating city, that is magically held in place by forces unseen. The city is significantly larger than other cities in Tirathen. Fields for magical practice line the outer edges of the city, with shops, diners and taverns dotting around the city. Vast libraries and study halls span around the central region of the city. Four great towers stand around a central white tower in a quincunx formation. Between each of these towers are large lecturing halls and classrooms. The white tower, known as the Pinnacle lies at the heart of the city and is the tallest building in Karreth.
+Karreth is a floating city, that is magically held in place by forces unseen. The city is significantly larger than other cities in Tirathen. Fields for magical practice line the outer edges of the city, with shops, diners and taverns dotting around the city. Vast libraries and study halls span around the central region of the city. Four great towers stand around a central white tower in a quincunx formation. Between each of these towers are large lecturing halls and classrooms. The white tower, known as the [[Pinnacle]] lies at the heart of the city and is the tallest building in Karreth.
 
 ### Government & Politics
 Karreth's government is a Noocratic Magocracy, where the four leading Archmages of each Tradition Tower elects their most intelligent, and wise candidates to ascend to the [[Pinnacle|Pinnacle Tower]]. Casting off their magical ideologies of their past towers, and governing Karreth as a neutral force as well as serving as diplomatic figureheads.

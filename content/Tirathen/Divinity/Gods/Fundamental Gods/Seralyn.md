@@ -2,22 +2,22 @@
 
 The Unquenchable is a member of the [[Celestial Pantheon]], specifically one of the Eight Makers that created a sentient creature. Seralyn created the [[Goblin]].
 
-**Edicts:** pursue your personal freedom, seek hedonistic thrills, take revenge
-**Anathema:** become too consumed by love or a need for revenge, let a slight go unanswered
-**Areas of Concern:** lust, revenge, and trickery
-**Religious Symbol:** three daggers
-**Sacred Animal:** wasp
-**Sacred Colour(s):** black, yellow
-**Pantheons/Covenants:** [[Celestial Pantheon]]
+- **Edicts:** pursue your personal freedom, seek hedonistic thrills, take revenge
+- **Anathema:** become too consumed by love or a need for revenge, let a slight go unanswered
+- **Areas of Concern:** lust, revenge, and trickery
+- **Religious Symbol:** three daggers
+- **Sacred Animal:** wasp
+- **Sacred Colour(s):** black, yellow
+- **Pantheons/Covenants:** [[Celestial Pantheon]]
 
 ### Devotee Benefits
-**Divine Attribute:** Dexterity or Charisma
-**Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146) or [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
-**Divine Sanctification:** can choose holy or unholy
-**Divine Skill:** [Deception](https://2e.aonprd.com/Skills.aspx?ID=38)
-**Favoured Weapon:** [whip](https://2e.aonprd.com/Weapons.aspx?ID=404)
-**Domains:** [pain](https://2e.aonprd.com/Domains.aspx?ID=87), [passion](https://2e.aonprd.com/Domains.aspx?ID=88), [secrecy](https://2e.aonprd.com/Domains.aspx?ID=91), [trickery](https://2e.aonprd.com/Domains.aspx?ID=94)
-**Cleric Spells:** 1st: [charm](https://2e.aonprd.com/Spells.aspx?ID=1463), 3rd: [enthrall](https://2e.aonprd.com/Spells.aspx?ID=1516), 6th: [mislead](https://2e.aonprd.com/Spells.aspx?ID=1605)
+- **Divine Attribute:** Dexterity or Charisma
+- **Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146) or [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
+- **Divine Sanctification:** can choose holy or unholy
+- **Divine Skill:** [Deception](https://2e.aonprd.com/Skills.aspx?ID=38)
+- **Favoured Weapon:** [whip](https://2e.aonprd.com/Weapons.aspx?ID=404)
+- **Domains:** [pain](https://2e.aonprd.com/Domains.aspx?ID=87), [passion](https://2e.aonprd.com/Domains.aspx?ID=88), [secrecy](https://2e.aonprd.com/Domains.aspx?ID=91), [trickery](https://2e.aonprd.com/Domains.aspx?ID=94)
+- **Cleric Spells:** 1st: [charm](https://2e.aonprd.com/Spells.aspx?ID=1463), 3rd: [enthrall](https://2e.aonprd.com/Spells.aspx?ID=1516), 6th: [mislead](https://2e.aonprd.com/Spells.aspx?ID=1605)
 
 ### Divine Intercession
 Signs of favour or displeasure from the Unquenchable are sometimes subtle and other times incontrovertible. Seralyn typically grants her boon to those on the path toward great vengeance and curses those who slight her followers, particularly if those followers are sex workers, though her fickle heart rarely commits to any absolute guidelines.

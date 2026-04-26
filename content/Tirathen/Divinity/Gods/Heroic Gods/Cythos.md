@@ -2,22 +2,22 @@
 
 The Bronze Lady is a member of the [[Heroic Pantheon]], and rose to divinity during [[The Age of Calamity]].
 
-**Edicts:** craft new creations, pay attention to details, share achievements
-**Anathema:** carelessly destroy others’ creations or research, enslave intelligent constructs, abuse constructs, refuse to acknowledge or learn from mistakes
-**Areas of Concern:** clockwork, invention, time
-**Religious Symbol:** mask with forehead rune
-**Sacred Animal:** termite
-**Sacred Colour(s):** bronze, silver
-**Pantheons/Covenants:** [[Heroic Pantheon]]
+- **Edicts:** craft new creations, pay attention to details, share achievements
+- **Anathema:** carelessly destroy others’ creations or research, enslave intelligent constructs, abuse constructs, refuse to acknowledge or learn from mistakes
+- **Areas of Concern:** clockwork, invention, time
+- **Religious Symbol:** mask with forehead rune
+- **Sacred Animal:** termite
+- **Sacred Colour(s):** bronze, silver
+- **Pantheons/Covenants:** [[Heroic Pantheon]]
 
 ### Devotee Benefits
-**Divine Attribute:** Intelligence or Wisdom
-**Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146) or [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
-**Divine Sanctification:** can choose holy or unholy
-**Divine Skill:** [Crafting](https://2e.aonprd.com/Skills.aspx?ID=37)
-**Favoured Weapon:** [light hammer](https://2e.aonprd.com/Weapons.aspx?ID=384)
-**Domains:** [creation](https://2e.aonprd.com/Domains.aspx?ID=68), [knowledge](https://2e.aonprd.com/Domains.aspx?ID=80), [earth](https://2e.aonprd.com/Domains.aspx?ID=73), [fire](https://2e.aonprd.com/Domains.aspx?ID=76)
-**Cleric Spells:** 1st: [temporary tool](https://2e.aonprd.com/Spells.aspx?ID=2369), 4th: [creation](https://2e.aonprd.com/Spells.aspx?ID=1477), 7th: [duplicate foe](https://2e.aonprd.com/Spells.aspx?ID=1505)
+- **Divine Attribute:** Intelligence or Wisdom
+- **Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146) or [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
+- **Divine Sanctification:** can choose holy or unholy
+- **Divine Skill:** [Crafting](https://2e.aonprd.com/Skills.aspx?ID=37)
+- **Favoured Weapon:** [light hammer](https://2e.aonprd.com/Weapons.aspx?ID=384)
+- **Domains:** [creation](https://2e.aonprd.com/Domains.aspx?ID=68), [knowledge](https://2e.aonprd.com/Domains.aspx?ID=80), [earth](https://2e.aonprd.com/Domains.aspx?ID=73), [fire](https://2e.aonprd.com/Domains.aspx?ID=76)
+- **Cleric Spells:** 1st: [temporary tool](https://2e.aonprd.com/Spells.aspx?ID=2369), 4th: [creation](https://2e.aonprd.com/Spells.aspx?ID=1477), 7th: [duplicate foe](https://2e.aonprd.com/Spells.aspx?ID=1505)
 
 ### Divine Intercession
 Cythos doesn’t dole out punishments or rewards to her followers lightly.

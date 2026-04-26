@@ -1,15 +1,16 @@
 Myrathin is an republic located in eastern [[Valloryn]]. Myrathin is represented by a triquetra behind a blooming flower.
 
 ### Basic Info
-**Coat of Arms:** A triquetra behind a blooming flower.
-**Demonym:** Myrathi
-**Location:** [[Eastwyrd]]
-**Capital:** [[Kinholm]]
-**Religion:** Majority worship the [[Octavian Faith]], mainly [[Orilyn]]
-**Government:** Democratic Republic
+- **Coat of Arms:** A triquetra behind a blooming flower.
+- **Demonym:** Myrathi
+- **Location:** [[Eastwyrd]]
+- **Capital:** [[Kinholm]]
+- **Religion:** Majority worship the [[Octavian Faith]], mainly [[Orilyn]]
+- **Government:** Democratic Republic
 + **President:** [[Solen Varek]]
-+ **Opposition Leader:** Dara Harrian
- **Formation:** 
++ **Opposition Leader:** [[Dara Harrian]]
+ 
+#### Formation
  + Believed to be first settled around ~400 P.C
  + Officially recognised as a sovereign nation in 1400 P.D
 

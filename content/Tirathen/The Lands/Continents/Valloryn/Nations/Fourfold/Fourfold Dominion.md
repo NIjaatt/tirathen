@@ -1,15 +1,16 @@
 The Fourfold Dominion is located in central-southern [[Valloryn]]. The dominion is represented by a diamond quartered by four creatures: a Heron, a Snake, a Shark, and a Whale.
 
 ### Basic Info
-**Coat of Arms:** A diamond quartered by four creatures: a Heron, a Snake, a Shark, and a Whale.
-**Demonym:** Saltborn
-**Location:** [[Emerald Isles]]
-**Capital:** [[Wraithport]]
-**Religion:** No major religions. Most worship [[Elyna]], the Bitch Queen.
-**Government:** Thalassocratic Monarchy
+- **Coat of Arms:** A diamond quartered by four creatures: a Heron, a Snake, a Shark, and a Whale.
+- **Demonym:** Saltborn
+- **Location:** [[Emerald Isles]]
+- **Capital:** [[Wraithport]]
+- **Religion:** No major religions. Most worship [[Elyna]], the Bitch Queen.
+- **Government:** Thalassocratic Monarchy
 + **Pirate King:** [[Amir Al'Bahir]]
- **Formation:** 
- + Officially recognised as a sovereign nation in 1342 P.D
+
+#### Formation
+ + Officially recognised as a sovereign nation in 1337 P.D
 
 ### History
 #### Formation of a Nation

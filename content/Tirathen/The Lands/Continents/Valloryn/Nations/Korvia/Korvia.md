@@ -1,17 +1,18 @@
 The Korvian Empire is an empire located in western [[Valloryn]]. Korvia is represented by a Dragon wielding a sword that carries a crown.
 
 ### Basic Info
-**Coat of Arms:** Dragon wielding a Sword that carries a Crown
-**Demonym:** Korvian
-**Location:** The [[Westlands]]
-**Capital:** [[Ashkareth]]
-**Religion:** Split. Half follow [[Azrahnism]], the other follow the [[Octavian Faith]].
-**Government:** Constitutional Monarchy
+- **Coat of Arms:** Dragon wielding a Sword that carries a Crown
+- **Demonym:** Korvian
+- **Location:** The [[Westlands]]
+- **Capital:** [[Ashkareth]]
+- **Religion:** Split. Half follow [[Azrahnism]], the other follow the [[Octavian Faith]].
+- **Government:** Constitutional Monarchy
  - **Emperor:** [[Aedric Baragav II]]
  - **Marshal:** [[Dorrian Holt]]
  - **Chancellor:** [[Serios Arteria]]
  - **Regional Governors:** [[Four Ducal Houses]]
- **Formation:** 
+
+#### Formation
  + Believed to be first settled around ~400 P.C
  + Officially recognised as a sovereign nation in 1400 P.D
 

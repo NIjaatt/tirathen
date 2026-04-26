@@ -1,9 +1,9 @@
 The Black Hand is a cult formed around the veneration of Demons.
 
 ### Basic Info
-**Symbol:** A broken crown half-submerged beneath a flame.
-**Key Figures:** First Mouth
-**Founded in:** Unknown.
+- **Symbol:** A broken crown half-submerged beneath a flame.
+- **Key Figures:** First Mouth
+- **Founded in:** Unknown.
 
 ### Background
 To the Octavian Faith, to city guards, to the scholars who write about them in careful, frightened prose, they are the Black Hand. The name was coined by the Ministry of Prosecution sometime in the centuries following the First Crusade, derived from the dark rituals that investigators documented at the sites of their gatherings. It is a name meant to diminish and reduce a theological movement to its most grotesque surface details.

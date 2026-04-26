@@ -2,22 +2,22 @@
 
 The Lord of Blood is a member of the [[Dark Pantheon]], and is a close aid to [[Dravathis]] as one of the Eight Lords.
 
-**Edicts:** conduct assassinations, spread the Red Mantis’s infamy, wield sawtooth sabers in combat.
-**Anathema:** kill a rightful ruler, become fixated on petty matters such as others’ gender or ancestry, abandon an assassination contract you agreed to pursue
-**Areas of Concern:** assassins, divine punishments, the Red Mantis
-**Religious Symbol:** crossed mantis claws
-**Sacred Animal:** crimson mantis
-**Sacred Colour(s):** red
-**Pantheons/Covenants:** [[Dark Pantheon]]
+- **Edicts:** conduct assassinations, spread the Red Mantis’s infamy, wield sawtooth sabers in combat.
+- **Anathema:** kill a rightful ruler, become fixated on petty matters such as others’ gender or ancestry, abandon an assassination contract you agreed to pursue
+- **Areas of Concern:** assassins, divine punishments, the Red Mantis
+- **Religious Symbol:** crossed mantis claws
+- **Sacred Animal:** crimson mantis
+- **Sacred Colour(s):** red
+- **Pantheons/Covenants:** [[Dark Pantheon]]
 
 ### Devotee Benefits
-**Divine Attribute:** Strength or Dexterity
-**Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146)
-**Divine Sanctification:** can choose unholy
-**Divine Skill:** [Stealth](https://2e.aonprd.com/Skills.aspx?ID=48)
-**Favoured Weapon:** [sawtooth saber](https://2e.aonprd.com/Weapons.aspx?ID=423)
-**Domains:** [death](https://2e.aonprd.com/Domains.aspx?ID=70), [might](https://2e.aonprd.com/Domains.aspx?ID=83), [trickery](https://2e.aonprd.com/Domains.aspx?ID=94), [zeal](https://2e.aonprd.com/Domains.aspx?ID=100)
-**Cleric Spells:** 1st: [sure strike](https://2e.aonprd.com/Spells.aspx?ID=1709), 2nd: [invisibility](https://2e.aonprd.com/Spells.aspx?ID=1577), 4th: [vision of death](https://2e.aonprd.com/Spells.aspx?ID=1742)
+- **Divine Attribute:** Strength or Dexterity
+- **Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146)
+- **Divine Sanctification:** can choose unholy
+- **Divine Skill:** [Stealth](https://2e.aonprd.com/Skills.aspx?ID=48)
+- **Favoured Weapon:** [sawtooth saber](https://2e.aonprd.com/Weapons.aspx?ID=423)
+- **Domains:** [death](https://2e.aonprd.com/Domains.aspx?ID=70), [might](https://2e.aonprd.com/Domains.aspx?ID=83), [trickery](https://2e.aonprd.com/Domains.aspx?ID=94), [zeal](https://2e.aonprd.com/Domains.aspx?ID=100)
+- **Cleric Spells:** 1st: [sure strike](https://2e.aonprd.com/Spells.aspx?ID=1709), 2nd: [invisibility](https://2e.aonprd.com/Spells.aspx?ID=1577), 4th: [vision of death](https://2e.aonprd.com/Spells.aspx?ID=1742)
 
 ### Divine Intercession
 The Lord of Blood detests oathbreakers and bears a particular prejudice against mortals seeking to ascend into divinity, but Nyyrath believes in compensation for selfless duties and rewards the rare individual for their murderous deeds. Violation of his tenets and, occasionally, slights against [[Dravathis]] may provoke Nyrrath’s wrath.

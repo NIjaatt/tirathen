@@ -2,22 +2,22 @@
 
 The Bitch Queen is a member of the [[Heroic Pantheon]], and rose to divinity during [[The Age of Calamity]].
 
-**Edicts:** sail the seas, stay loyal to captain and crew, take what you want
-**Anathema:** betray shipmates, forsake piracy, settle on land
-**Areas of Concern:** piracy, sea monsters, strife
-**Religious Symbol:** skull and crossbones
-**Sacred Animal:** parrot
-**Sacred Colour(s):** black, white
-**Pantheons/Covenants:** [[Heroic Pantheon]]
+- **Edicts:** sail the seas, stay loyal to captain and crew, take what you want
+- **Anathema:** betray shipmates, forsake piracy, settle on land
+- **Areas of Concern:** piracy, sea monsters, strife
+- **Religious Symbol:** skull and crossbones
+- **Sacred Animal:** parrot
+- **Sacred Colour(s):** black, white
+- **Pantheons/Covenants:** [[Heroic Pantheon]]
 
 ### Devotee Benefits
-**Divine Attribute:** Dexterity or Constitution
-**Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146) or [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
-**Divine Sanctification:** can choose holy or unholy
-**Divine Skill:** [Athletics](https://2e.aonprd.com/Skills.aspx?ID=36)
-**Favoured Weapon:** [rapier](https://2e.aonprd.com/Weapons.aspx?ID=391)
-**Domains:** [destruction](https://2e.aonprd.com/Domains.aspx?ID=71), [trickery](https://2e.aonprd.com/Domains.aspx?ID=94), [water](https://2e.aonprd.com/Domains.aspx?ID=98), [wealth](https://2e.aonprd.com/Domains.aspx?ID=99)
-**Cleric Spells:** 1st: [hydraulic push](https://2e.aonprd.com/Spells.aspx?ID=1561), 3rd: [feet to fins](https://2e.aonprd.com/Spells.aspx?ID=1525), 5th: [mariner's curse](https://2e.aonprd.com/Spells.aspx?ID=1593)
+- **Divine Attribute:** Dexterity or Constitution
+- **Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146) or [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
+- **Divine Sanctification:** can choose holy or unholy
+- **Divine Skill:** [Athletics](https://2e.aonprd.com/Skills.aspx?ID=36)
+- **Favoured Weapon:** [rapier](https://2e.aonprd.com/Weapons.aspx?ID=391)
+- **Domains:** [destruction](https://2e.aonprd.com/Domains.aspx?ID=71), [trickery](https://2e.aonprd.com/Domains.aspx?ID=94), [water](https://2e.aonprd.com/Domains.aspx?ID=98), [wealth](https://2e.aonprd.com/Domains.aspx?ID=99)
+- **Cleric Spells:** 1st: [hydraulic push](https://2e.aonprd.com/Spells.aspx?ID=1561), 3rd: [feet to fins](https://2e.aonprd.com/Spells.aspx?ID=1525), 5th: [mariner's curse](https://2e.aonprd.com/Spells.aspx?ID=1593)
 
 ### Divine Intercession
 Due to her fiery temperament, the Bitch Queen is quick to punish or reward her followers, and is equally fast at rescinding her favour or forgiving transgressions.

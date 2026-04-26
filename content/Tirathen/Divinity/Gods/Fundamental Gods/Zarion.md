@@ -2,22 +2,22 @@
  
 The Enlightened One is a member of the [[Celestial Pantheon]], specifically one of the Four Watchers that did not make a sentient creature. Instead choosing to oversee their siblings work.
 
-**Edicts:** be humble; help others perfect themselves; hone your body, mind, and spirit to a more perfect state; practice discipline
-**Anathema:** engage in overly unhealthy or self-destructive behaviours, destroy an important historical text, repeatedly fail to maintain self-control
-**Areas of Concern:** history, knowledge, and self-perfection
-**Religious Symbol:** blue hand
-**Sacred Animal:** snail
-**Sacred Colour(s):** blue, white
-**Pantheons/Covenants:** [[Celestial Pantheon]]
+- **Edicts:** be humble; help others perfect themselves; hone your body, mind, and spirit to a more perfect state; practice discipline
+- **Anathema:** engage in overly unhealthy or self-destructive behaviours, destroy an important historical text, repeatedly fail to maintain self-control
+- **Areas of Concern:** history, knowledge, and self-perfection
+- **Religious Symbol:** blue hand
+- **Sacred Animal:** snail
+- **Sacred Colour(s):** blue, white
+- **Pantheons/Covenants:** [[Celestial Pantheon]]
 
 ### Devotee Benefits
-**Divine Attribute:** Intelligence or Wisdom
-**Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146) or [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
-**Divine Sanctification:** can choose holy or unholy
-**Divine Skill:** [Athletics](https://2e.aonprd.com/Skills.aspx?ID=36)
-**Favoured Weapon:** [fist](https://2e.aonprd.com/Weapons.aspx?ID=356)
-**Domains:** [knowledge](https://2e.aonprd.com/Domains.aspx?ID=80), [might](https://2e.aonprd.com/Domains.aspx?ID=83), [perfection](https://2e.aonprd.com/Domains.aspx?ID=89), [truth](https://2e.aonprd.com/Domains.aspx?ID=95)
-**Cleric Spells:** 1st: [jump](https://2e.aonprd.com/Spells.aspx?ID=1580), 3rd: [haste](https://2e.aonprd.com/Spells.aspx?ID=1553), 4th: [mountain resilience](https://2e.aonprd.com/Spells.aspx?ID=1610)
+- **Divine Attribute:** Intelligence or Wisdom
+- **Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146) or [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
+- **Divine Sanctification:** can choose holy or unholy
+- **Divine Skill:** [Athletics](https://2e.aonprd.com/Skills.aspx?ID=36)
+- **Favoured Weapon:** [fist](https://2e.aonprd.com/Weapons.aspx?ID=356)
+- **Domains:** [knowledge](https://2e.aonprd.com/Domains.aspx?ID=80), [might](https://2e.aonprd.com/Domains.aspx?ID=83), [perfection](https://2e.aonprd.com/Domains.aspx?ID=89), [truth](https://2e.aonprd.com/Domains.aspx?ID=95)
+- **Cleric Spells:** 1st: [jump](https://2e.aonprd.com/Spells.aspx?ID=1580), 3rd: [haste](https://2e.aonprd.com/Spells.aspx?ID=1553), 4th: [mountain resilience](https://2e.aonprd.com/Spells.aspx?ID=1610)
 
 ### Divine Intercession
 Zarion grants his boons to those making progress on their paths toward perfection. He avoids bestowing misfortune as punishment, preferring to do so only to give an individual a challenging obstacle to overcome so as to help them progress in their quest for self-perfection.

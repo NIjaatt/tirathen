@@ -2,22 +2,22 @@
 
 The Lady of Valour is a member of the [[Celestial Pantheon]], specifically one of the Four Watchers that did not make a sentient creature. Instead choosing to oversee their siblings work.
 
-**Edicts:** be temperate, fight for justice and honour, hold valour in your heart  
-**Anathema:** abandon a companion in need, dishonour yourself, refuse a challenge from an equal  
-**Areas of Concern:** honour, justice, rulership, and valour  
-**Religious Symbol:** sword and sun  
-**Sacred Animal:** lion  
-**Sacred Colour(s):** red, white  
-**Pantheons/Covenants:** [[Celestial Pantheon]]
+- **Edicts:** be temperate, fight for justice and honour, hold valour in your heart  
+- **Anathema:** abandon a companion in need, dishonour yourself, refuse a challenge from an equal  
+- **Areas of Concern:** honour, justice, rulership, and valour  
+- **Religious Symbol:** sword and sun  
+- **Sacred Animal:** lion  
+- **Sacred Colour(s):** red, white  
+- **Pantheons/Covenants:** [[Celestial Pantheon]]
 
 ### Devotee Benefits
-**Divine Attribute:** Strength or Constitution  
-**Divine Font:** _[heal](https://2e.aonprd.com/Spells.aspx?ID=148)_  
-**Divine Sanctification:** must choose holy  
-**Divine Skill:** [Intimidation](https://2e.aonprd.com/Skills.aspx?ID=40)  
-**Favoured Weapon:** [longsword](https://2e.aonprd.com/Weapons.aspx?ID=386)  
-**Domains:** [confidence](https://2e.aonprd.com/Domains.aspx?ID=67), [might](https://2e.aonprd.com/Domains.aspx?ID=83), [truth](https://2e.aonprd.com/Domains.aspx?ID=95), [zeal](https://2e.aonprd.com/Domains.aspx?ID=100) 
-**Cleric Spells:** 1st: [sure strike](https://2e.aonprd.com/Spells.aspx?ID=1709), 2nd: [enlarge](https://2e.aonprd.com/Spells.aspx?ID=1514), 4th: [fire shield](https://2e.aonprd.com/Spells.aspx?ID=1529)
+- **Divine Attribute:** Strength or Constitution  
+- **Divine Font:** _[heal](https://2e.aonprd.com/Spells.aspx?ID=148)_  
+- **Divine Sanctification:** must choose holy  
+- **Divine Skill:** [Intimidation](https://2e.aonprd.com/Skills.aspx?ID=40)  
+- **Favoured Weapon:** [longsword](https://2e.aonprd.com/Weapons.aspx?ID=386)  
+- **Domains:** [confidence](https://2e.aonprd.com/Domains.aspx?ID=67), [might](https://2e.aonprd.com/Domains.aspx?ID=83), [truth](https://2e.aonprd.com/Domains.aspx?ID=95), [zeal](https://2e.aonprd.com/Domains.aspx?ID=100) 
+- **Cleric Spells:** 1st: [sure strike](https://2e.aonprd.com/Spells.aspx?ID=1709), 2nd: [enlarge](https://2e.aonprd.com/Spells.aspx?ID=1514), 4th: [fire shield](https://2e.aonprd.com/Spells.aspx?ID=1529)
 
 ### Divine Intercession
 Aeyora grants her blessings to those who show valour in trying times, and her curses to her followers that have abandoned the path of virtue.

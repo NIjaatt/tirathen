@@ -2,22 +2,22 @@
  
 The Gray Lady is a member of the [[Celestial Pantheon]], specifically one of the Four Watchers that did not make a sentient creature. Instead choosing to oversee their siblings work.
 
-**Edicts:** strive to understand ancient prophecies, destroy undead, lay bodies to rest
-**Anathema:** create undead, desecrate a corpse, take from the dead in bad faith
-**Areas of Concern:** birth, death, fate, prophecy, and time
-**Religious Symbol:** spiralling comet
-**Sacred Animal:** whippoorwill
-**Sacred Colour(s):** blue, white
-**Pantheons/Covenants:** [[Celestial Pantheon]]
+- **Edicts:** strive to understand ancient prophecies, destroy undead, lay bodies to rest
+- **Anathema:** create undead, desecrate a corpse, take from the dead in bad faith
+- **Areas of Concern:** birth, death, fate, prophecy, and time
+- **Religious Symbol:** spiralling comet
+- **Sacred Animal:** whippoorwill
+- **Sacred Colour(s):** blue, white
+- **Pantheons/Covenants:** [[Celestial Pantheon]]
 
 ### Devotee Benefits
-**Divine Attribute:** Constitution or Wisdom
-**Divine Font:** [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
-**Divine Sanctification:** none
-**Divine Skill:** [Medicine](https://2e.aonprd.com/Skills.aspx?ID=42)
-**Favoured Weapon:** [dagger](https://2e.aonprd.com/Weapons.aspx?ID=358)
-**Domains:** [death](https://2e.aonprd.com/Domains.aspx?ID=70), [fate](https://2e.aonprd.com/Domains.aspx?ID=75), [healing](https://2e.aonprd.com/Domains.aspx?ID=78), [knowledge](https://2e.aonprd.com/Domains.aspx?ID=80)
-**Cleric Spells:** 1st: [mindlink](https://2e.aonprd.com/Spells.aspx?ID=1603), 3rd: [ghostly weapon](https://2e.aonprd.com/Spells.aspx?ID=1544), 4th: [vision of death](https://2e.aonprd.com/Spells.aspx?ID=1742)
+- **Divine Attribute:** Constitution or Wisdom
+- **Divine Font:** [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
+- **Divine Sanctification:** none
+- **Divine Skill:** [Medicine](https://2e.aonprd.com/Skills.aspx?ID=42)
+- **Favoured Weapon:** [dagger](https://2e.aonprd.com/Weapons.aspx?ID=358)
+- **Domains:** [death](https://2e.aonprd.com/Domains.aspx?ID=70), [fate](https://2e.aonprd.com/Domains.aspx?ID=75), [healing](https://2e.aonprd.com/Domains.aspx?ID=78), [knowledge](https://2e.aonprd.com/Domains.aspx?ID=80)
+- **Cleric Spells:** 1st: [mindlink](https://2e.aonprd.com/Spells.aspx?ID=1603), 3rd: [ghostly weapon](https://2e.aonprd.com/Spells.aspx?ID=1544), 4th: [vision of death](https://2e.aonprd.com/Spells.aspx?ID=1742)
 
 ### Divine Intercession
 Those who would prevent a soul from reaching the afterlife draw Nephira's ire, but those who merely dabble in pursuits like lengthening their life or resurrection are usually ignored, as Nephira is patient and eventually death comes for all.

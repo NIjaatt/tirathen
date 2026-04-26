@@ -1,14 +1,15 @@
 Elovan is a principality located in north-central [[Valloryn]]. Valdyr is represented by a lion's head with a sword plunged into it.
 
 ### Basic Info
-**Coat of Arms:** A Lion's Head with a Sword plunged into it.
-**Demonym:** Elovanite
-**Location:** The [[Heartlands]]
-**Capital:** [[Halverin]]
-**Religion:** Majority worship the [[Octavian Faith]].
-**Government:** Protectoral Oligarchy
+- **Coat of Arms:** A Lion's Head with a Sword plunged into it.
+- **Demonym:** Elovanite
+- **Location:** The [[Heartlands]]
+- **Capital:** [[Halverin]]
+- **Religion:** Majority worship the [[Octavian Faith]].
+- **Government:** Protectoral Oligarchy
 + [[The Five Lords]]
- **Formation:** 
+ 
+#### Formation
  + Lands believed to be first settled around ~400 P.C
  + Officially recognised as a sovereign nation in 1342 P.D
 

@@ -1,7 +1,7 @@
-Welcome to the world of Tirathen. This is a homebrew setting created by Mitch "Gaming" Jones. Games are run as per the Core books operates minus a few little details. If you have any questions about playing or DM’ing within Tirathen, ask Mitch :)
+Welcome to the world of Tirathen. Built from the ground up for the purpose of playing Pathfinder 2e. Games are run as per the Core books operates minus a few little details.
 
 [[Lore Primer]]
-This document outlines important lore of Tirathen.
+This document gives a relatively quick outline of the important lore of Tirathen.
 
 [[Tirathen|The Lands]]
 This document contains all the lands and nations of Tirathen.

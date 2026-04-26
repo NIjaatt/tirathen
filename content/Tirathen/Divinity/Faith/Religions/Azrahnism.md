@@ -1,9 +1,9 @@
 Azrahnism is a religion formed around the worship of the Korvian Empire's Imperial Dragons.
 
 ### Basic Info
-**Symbol:** Five dragons arranged in a circle around a sword.
-**Key People:** Vessar Orin
-**Founded in:** Founded by the first Human settlers of Korvia.
+- **Symbol:** Five dragons arranged in a circle around a sword.
+- **Key People:** Vessar Orin
+- **Founded in:** Founded by the first Human settlers of Korvia.
 
 ### Background
 Azrahnism is the state-sponsored religion of the Korvian Empire, built around the veneration of five Imperial Dragons. Draconic beings of immense power and ancient origin who arrived on [[Tirathen]] alongside the Human settlers and have remained willingly bound to Korvia's ruling houses ever since.

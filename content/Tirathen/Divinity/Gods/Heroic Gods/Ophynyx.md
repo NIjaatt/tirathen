@@ -2,22 +2,22 @@
 
 The Patient Watcher is a member of the [[Heroic Pantheon]], but only because he is a god outside of divine logic. He doesn't embody aspects of a Celestial God, nor a Dark God. He has always existed, and will be the last thing to exist.
 
-**Edicts:** preach of the upcoming end times, destroy that which has outlived its usefulness, put the suffering out of their misery
-**Anathema:** artificially extend something’s existence or life span, spread hope
-**Areas of Concern:** apocalypse, empty places, oblivion, ruins
-**Religious Symbol:** skull-faced moon
-**Sacred Animal:** none
-**Sacred Colour(s):** none
-**Pantheons/Covenants:** [[Heroic Pantheon]]
+- **Edicts:** preach of the upcoming end times, destroy that which has outlived its usefulness, put the suffering out of their misery
+- **Anathema:** artificially extend something’s existence or life span, spread hope
+- **Areas of Concern:** apocalypse, empty places, oblivion, ruins
+- **Religious Symbol:** skull-faced moon
+- **Sacred Animal:** none
+- **Sacred Colour(s):** none
+- **Pantheons/Covenants:** [[Heroic Pantheon]]
 
 ### Devotee Benefits
-**Divine Attribute:** Strength or Charisma
-**Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146)
-**Divine Sanctification:** can choose unholy
-**Divine Skill:** [Intimidation](https://2e.aonprd.com/Skills.aspx?ID=40)
-**Favoured Weapon:** [war flail](https://2e.aonprd.com/Weapons.aspx?ID=402)
-**Domains:** [darkness](https://2e.aonprd.com/Domains.aspx?ID=69), [destruction](https://2e.aonprd.com/Domains.aspx?ID=71), [fate](https://2e.aonprd.com/Domains.aspx?ID=75), [nightmares](https://2e.aonprd.com/Domains.aspx?ID=86)
-**Cleric Spells:** 1st: [phantom pain](https://2e.aonprd.com/Spells.aspx?ID=1632), 5th: [wave of despair](https://2e.aonprd.com/Spells.aspx?ID=1757), 9th: [detonate magic](https://2e.aonprd.com/Spells.aspx?ID=1488)
+- **Divine Attribute:** Strength or Charisma
+- **Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146)
+- **Divine Sanctification:** can choose unholy
+- **Divine Skill:** [Intimidation](https://2e.aonprd.com/Skills.aspx?ID=40)
+- **Favoured Weapon:** [war flail](https://2e.aonprd.com/Weapons.aspx?ID=402)
+- **Domains:** [darkness](https://2e.aonprd.com/Domains.aspx?ID=69), [destruction](https://2e.aonprd.com/Domains.aspx?ID=71), [fate](https://2e.aonprd.com/Domains.aspx?ID=75), [nightmares](https://2e.aonprd.com/Domains.aspx?ID=86)
+- **Cleric Spells:** 1st: [phantom pain](https://2e.aonprd.com/Spells.aspx?ID=1632), 5th: [wave of despair](https://2e.aonprd.com/Spells.aspx?ID=1757), 9th: [detonate magic](https://2e.aonprd.com/Spells.aspx?ID=1488)
 
 ### Divine Intercession
 The Patient Watcher almost never directly intervenes in the world, but he sometimes offers flashes of insight, or inflicts terrible psychic distress if he believes these boons or curses will bring about the end of the world faster.

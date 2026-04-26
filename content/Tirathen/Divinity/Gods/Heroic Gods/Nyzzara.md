@@ -2,22 +2,22 @@
 
 The Veiled Lady is a member of the [[Heroic Pantheon]], and rose to divinity during [[The Age of Calamity]].
 
-**Edicts:** show the beauty in illusions, pursue the nature of truth, respect the need for secrets
-**Anathema:** let a creature permanently labour under the falsehood of your illusions, reveal a secret you have sworn to keep
-**Areas of Concern:** illusions, mysteries, reflections, secrets
-**Religious Symbol:** seven veils tied in circle
-**Sacred Animal:** coyote
-**Sacred Colour(s):** gray
-**Pantheons/Covenants:** [[Heroic Pantheon]]
+- **Edicts:** show the beauty in illusions, pursue the nature of truth, respect the need for secrets
+- **Anathema:** let a creature permanently labour under the falsehood of your illusions, reveal a secret you have sworn to keep
+- **Areas of Concern:** illusions, mysteries, reflections, secrets
+- **Religious Symbol:** seven veils tied in circle
+- **Sacred Animal:** coyote
+- **Sacred Colour(s):** gray
+- **Pantheons/Covenants:** [[Heroic Pantheon]]
 
 ### Devotee Benefits
-**Divine Attribute:** Constitution or Intelligence
-**Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146) or [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
-**Divine Sanctification:** none
-**Divine Skill:** [Deception](https://2e.aonprd.com/Skills.aspx?ID=38)
-**Favoured Weapon:** [bladed scarf](https://2e.aonprd.com/Weapons.aspx?ID=273)
-**Domains:** [magic](https://2e.aonprd.com/Domains.aspx?ID=82), [moon](https://2e.aonprd.com/Domains.aspx?ID=84), [secrecy](https://2e.aonprd.com/Domains.aspx?ID=91), [trickery](https://2e.aonprd.com/Domains.aspx?ID=94)
-**Cleric Spells:** 1st: [illusory disguise](https://2e.aonprd.com/Spells.aspx?ID=1568), 2nd: [blur](https://2e.aonprd.com/Spells.aspx?ID=1455), 6th: [mislead](https://2e.aonprd.com/Spells.aspx?ID=1605)
+- **Divine Attribute:** Constitution or Intelligence
+- **Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146) or [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
+- **Divine Sanctification:** none
+- **Divine Skill:** [Deception](https://2e.aonprd.com/Skills.aspx?ID=38)
+- **Favoured Weapon:** [bladed scarf](https://2e.aonprd.com/Weapons.aspx?ID=273)
+- **Domains:** [magic](https://2e.aonprd.com/Domains.aspx?ID=82), [moon](https://2e.aonprd.com/Domains.aspx?ID=84), [secrecy](https://2e.aonprd.com/Domains.aspx?ID=91), [trickery](https://2e.aonprd.com/Domains.aspx?ID=94)
+- **Cleric Spells:** 1st: [illusory disguise](https://2e.aonprd.com/Spells.aspx?ID=1568), 2nd: [blur](https://2e.aonprd.com/Spells.aspx?ID=1455), 6th: [mislead](https://2e.aonprd.com/Spells.aspx?ID=1605)
 
 ### Divine Intercession
 The Veiled Lady abhors the use of illusion to cause harm and detests anyone who discourages or corrupts the process of truth-seeking. The goddess works actively against the faith of [[Baelmir]] and his clerics’ use of shadow.

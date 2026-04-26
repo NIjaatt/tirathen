@@ -2,22 +2,22 @@
 
 The Demon Queen is a member of the [[Dark Pantheon]], and is one of the Four Rulers that presides over the Pantheon.
 
-**Edicts:** bring power to outcasts and the downtrodden, indoctrinate others in Dravathis’s teachings, make the beautiful monstrous, reveal the corruption and flaws in all things
-**Anathema:** attempt to change that which makes you different, provide succor to Dravathis’s enemies
-**Areas of Concern:** aberrance, monsters, and nightmares
-**Religious Symbol:** three-eyed jackal
-**Sacred Animal:** jackal
-**Sacred Colour(s):** red, yellow
-**Pantheons/Covenants:** [[Dark Pantheon]]
+- **Edicts:** bring power to outcasts and the downtrodden, indoctrinate others in Dravathis’s teachings, make the beautiful monstrous, reveal the corruption and flaws in all things
+- **Anathema:** attempt to change that which makes you different, provide succor to Dravathis’s enemies
+- **Areas of Concern:** aberrance, monsters, and nightmares
+- **Religious Symbol:** three-eyed jackal
+- **Sacred Animal:** jackal
+- **Sacred Colour(s):** red, yellow
+- **Pantheons/Covenants:** [[Dark Pantheon]]
 
 ### Devotee Benefits
-**Divine Attribute:** Strength or Constitution
-**Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146) or [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
-**Divine Sanctification:** can choose unholy
-**Divine Skill:** [Survival](https://2e.aonprd.com/Skills.aspx?ID=49)
-**Favoured Weapon:** [falchion](https://2e.aonprd.com/Weapons.aspx?ID=373)
-**Domains:** [family](https://2e.aonprd.com/Domains.aspx?ID=74), [might](https://2e.aonprd.com/Domains.aspx?ID=83), [nightmares](https://2e.aonprd.com/Domains.aspx?ID=86), [trickery](https://2e.aonprd.com/Domains.aspx?ID=94)
-**Cleric Spells:** 1st: [spider sting](https://2e.aonprd.com/Spells.aspx?ID=1684), 2nd: [animal form](https://2e.aonprd.com/Spells.aspx?ID=1440), 4th: [nightmare](https://2e.aonprd.com/Spells.aspx?ID=1615)
+- **Divine Attribute:** Strength or Constitution
+- **Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146) or [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
+- **Divine Sanctification:** can choose unholy
+- **Divine Skill:** [Survival](https://2e.aonprd.com/Skills.aspx?ID=49)
+- **Favoured Weapon:** [falchion](https://2e.aonprd.com/Weapons.aspx?ID=373)
+- **Domains:** [family](https://2e.aonprd.com/Domains.aspx?ID=74), [might](https://2e.aonprd.com/Domains.aspx?ID=83), [nightmares](https://2e.aonprd.com/Domains.aspx?ID=86), [trickery](https://2e.aonprd.com/Domains.aspx?ID=94)
+- **Cleric Spells:** 1st: [spider sting](https://2e.aonprd.com/Spells.aspx?ID=1684), 2nd: [animal form](https://2e.aonprd.com/Spells.aspx?ID=1440), 4th: [nightmare](https://2e.aonprd.com/Spells.aspx?ID=1615)
 
 ### Divine Intercession
 Dravathis rewards kinship with monsters and brutal dominance in combat. Those who offend her serve the brood as prey or unwilling sacrifices.

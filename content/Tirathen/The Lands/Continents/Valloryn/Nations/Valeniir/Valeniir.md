@@ -1,14 +1,15 @@
 Valeniir is located in south-eastern [[Valloryn]]. The nation is represented by a great tree, roots and canopy mirrored, with an eye at its heart.
 
 ### Basic Info
-**Coat of Arms:** A Great Tree, roots and canopy mirrored, with an Eye at its heart.
-**Demonym:** Valeniiri
-**Location:** [[Lands of Valeniir]]
-**Capital:** [[Itharel]]
-**Religion:** Majority worship the [[Octavian Faith]], mainly [[Felurion]].
-**Government:** Aristocratic Oligarchy
+- **Coat of Arms:** A Great Tree, roots and canopy mirrored, with an Eye at its heart.
+- **Demonym:** Valeniiri
+- **Location:** [[Lands of Valeniir]]
+- **Capital:** [[Itharel]]
+- **Religion:** Majority worship the [[Octavian Faith]], mainly [[Felurion]].
+- **Government:** Aristocratic Oligarchy
 + [[High Council of Valeniir]]
- **Formation:** 
+
+#### Formation
  + Believed to be first settled around ~900 P.C
  + Officially recognised as a sovereign nation in 50 P.D
 

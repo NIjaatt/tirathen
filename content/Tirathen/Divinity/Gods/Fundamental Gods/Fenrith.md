@@ -2,22 +2,22 @@
 
 The Old Hunter is a member of the [[Celestial Pantheon]], specifically one of the Eight Makers that created a sentient creature. Fenrith created the [[Athamaru]].
 
-**Edicts:** care for your home and family, fulfill your duties, keep the peace, protect the community
-**Anathema:** abandon your home in its time of need, choose yourself over your community, tarnish your reputation, tell lies
-**Areas of Concern:** family, farming, hunting, and trade
-**Religious Symbol:** bow and arrow
-**Sacred Animal:** stag
-**Sacred Colour(s):** brown, green
-**Pantheons/Covenants:** [[Celestial Pantheon]], 
+- **Edicts:** care for your home and family, fulfill your duties, keep the peace, protect the community
+- **Anathema:** abandon your home in its time of need, choose yourself over your community, tarnish your reputation, tell lies
+- **Areas of Concern:** family, farming, hunting, and trade
+- **Religious Symbol:** bow and arrow
+- **Sacred Animal:** stag
+- **Sacred Colour(s):** brown, green
+- **Pantheons/Covenants:** [[Celestial Pantheon]], 
 
 ### Devotee Benefits
-**Divine Attribute:** Constitution or Wisdom
-**Divine Font:** [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
-**Divine Sanctification:** can choose holy
-**Divine Skill:** [Survival](https://2e.aonprd.com/Skills.aspx?ID=49)
-**Favoured Weapon:** [longbow](https://2e.aonprd.com/Weapons.aspx?ID=436)
-**Domains:** [earth](https://2e.aonprd.com/Domains.aspx?ID=73), [family](https://2e.aonprd.com/Domains.aspx?ID=74), [nature](https://2e.aonprd.com/Domains.aspx?ID=85), [wealth](https://2e.aonprd.com/Domains.aspx?ID=99)
-**Cleric Spells:** 1st: [sure strike](https://2e.aonprd.com/Spells.aspx?ID=1709), 3rd: [wall of thorns](https://2e.aonprd.com/Spells.aspx?ID=1752), 5th: [nature's pathway](https://2e.aonprd.com/Spells.aspx?ID=1613)
+- **Divine Attribute:** Constitution or Wisdom
+- **Divine Font:** [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
+- **Divine Sanctification:** can choose holy
+- **Divine Skill:** [Survival](https://2e.aonprd.com/Skills.aspx?ID=49)
+- **Favoured Weapon:** [longbow](https://2e.aonprd.com/Weapons.aspx?ID=436)
+- **Domains:** [earth](https://2e.aonprd.com/Domains.aspx?ID=73), [family](https://2e.aonprd.com/Domains.aspx?ID=74), [nature](https://2e.aonprd.com/Domains.aspx?ID=85), [wealth](https://2e.aonprd.com/Domains.aspx?ID=99)
+- **Cleric Spells:** 1st: [sure strike](https://2e.aonprd.com/Spells.aspx?ID=1709), 3rd: [wall of thorns](https://2e.aonprd.com/Spells.aspx?ID=1752), 5th: [nature's pathway](https://2e.aonprd.com/Spells.aspx?ID=1613)
 
 ### Divine Intercession
 Fenrith favours those who commit themselves to their communities and detests those who disrupt these families.

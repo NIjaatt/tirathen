@@ -4,22 +4,22 @@ The All-Seeing Eye is a member of the [[Celestial Pantheon]], specifically one o
 
 Originally, Asurion was simply a god of Knowledge, but when magic arrived on [[Tirathen]] his curiosity proved dangerous. As magic infected the god, he gained enough power to witness all that transpired on all planes, and this both fuelled his divinity and drove him irreparably mad. He is torn between destroying the world with one hand and saving it with the other. This dual-edged nature of magic is cherished by his followers and is epitomized in his apotheosis
 
-**Edicts:** seek out magical power and use it
-**Anathema:** continually pursue mundane paths over magical ones
-**Areas of Concern:** magic
-**Religious Symbol:** two-toned mask
-**Sacred Animal:** zebra
-**Sacred Colour(s):** black, white
-**Pantheons/Covenants:** [[Celestial Pantheon]]
+- **Edicts:** seek out magical power and use it
+- **Anathema:** continually pursue mundane paths over magical ones
+- **Areas of Concern:** magic
+- **Religious Symbol:** two-toned mask
+- **Sacred Animal:** zebra
+- **Sacred Colour(s):** black, white
+- **Pantheons/Covenants:** [[Celestial Pantheon]]
 
 ### Devotee Benefits
-**Divine Attribute:** Intelligence or Wisdom
-**Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146) or [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
-**Divine Sanctification:** can choose holy or unholy
-**Divine Skill:** [Arcana](https://2e.aonprd.com/Skills.aspx?ID=35)
-**Favoured Weapon:** [staff](https://2e.aonprd.com/Weapons.aspx?ID=367)
-**Domains:** [destruction](https://2e.aonprd.com/Domains.aspx?ID=71), [knowledge](https://2e.aonprd.com/Domains.aspx?ID=80), [magic](https://2e.aonprd.com/Domains.aspx?ID=82), [protection](https://2e.aonprd.com/Domains.aspx?ID=90)
-**Cleric Spells:** 1st: [force barrage](https://2e.aonprd.com/Spells.aspx?ID=1536), 2nd: [embed message](https://2e.aonprd.com/Spells.aspx?ID=1511), 3rd: [levitate](https://2e.aonprd.com/Spells.aspx?ID=1584), 4th: [flicker](https://2e.aonprd.com/Spells.aspx?ID=1532), 5th: [telekinetic haul](https://2e.aonprd.com/Spells.aspx?ID=1716), 6th: [wall of force](https://2e.aonprd.com/Spells.aspx?ID=1749), 7th: [warp mind](https://2e.aonprd.com/Spells.aspx?ID=1754), 8th: [quandary](https://2e.aonprd.com/Spells.aspx?ID=1644), 9th: [detonate magic](https://2e.aonprd.com/Spells.aspx?ID=1488)
+- **Divine Attribute:** Intelligence or Wisdom
+- **Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146) or [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
+- **Divine Sanctification:** can choose holy or unholy
+- **Divine Skill:** [Arcana](https://2e.aonprd.com/Skills.aspx?ID=35)
+- **Favoured Weapon:** [staff](https://2e.aonprd.com/Weapons.aspx?ID=367)
+- **Domains:** [destruction](https://2e.aonprd.com/Domains.aspx?ID=71), [knowledge](https://2e.aonprd.com/Domains.aspx?ID=80), [magic](https://2e.aonprd.com/Domains.aspx?ID=82), [protection](https://2e.aonprd.com/Domains.aspx?ID=90)
+- **Cleric Spells:** 1st: [force barrage](https://2e.aonprd.com/Spells.aspx?ID=1536), 2nd: [embed message](https://2e.aonprd.com/Spells.aspx?ID=1511), 3rd: [levitate](https://2e.aonprd.com/Spells.aspx?ID=1584), 4th: [flicker](https://2e.aonprd.com/Spells.aspx?ID=1532), 5th: [telekinetic haul](https://2e.aonprd.com/Spells.aspx?ID=1716), 6th: [wall of force](https://2e.aonprd.com/Spells.aspx?ID=1749), 7th: [warp mind](https://2e.aonprd.com/Spells.aspx?ID=1754), 8th: [quandary](https://2e.aonprd.com/Spells.aspx?ID=1644), 9th: [detonate magic](https://2e.aonprd.com/Spells.aspx?ID=1488)
 
 ### Divine Intercession
 Asurion is often impartial to his followers and their wishes, so it is rare to gain a heightened favour from the god of magic. However, blatant disregard and stifling of magic will certainly earn his ire.

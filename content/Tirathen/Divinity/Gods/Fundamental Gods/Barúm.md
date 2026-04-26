@@ -2,22 +2,22 @@
 
 The Father of Creation is a member of the [[Celestial Pantheon]], specifically one of the Eight Makers that created a sentient creature. Barúm created the [[Dwarf]].
 
-**Edicts:** be honourable and forthright, keep your word, respect the forge, serve your people
-**Anathema:** tell lies or cheat someone, intentionally create inferior works, show continued mercy to the enemies of your people when such enemies prove they are undeserving
-**Areas of Concern:** forge, protection, and strategy
-**Religious Symbol:** iron hammer
-**Sacred Animal:** badger
-**Sacred Colour(s):** gold, gray
-**Pantheons/Covenants:** [[Celestial Pantheon]]
+- **Edicts:** be honourable and forthright, keep your word, respect the forge, serve your people
+- **Anathema:** tell lies or cheat someone, intentionally create inferior works, show continued mercy to the enemies of your people when such enemies prove they are undeserving
+- **Areas of Concern:** forge, protection, and strategy
+- **Religious Symbol:** iron hammer
+- **Sacred Animal:** badger
+- **Sacred Colour(s):** gold, gray
+- **Pantheons/Covenants:** [[Celestial Pantheon]]
 
 ### Devotee Benefits
-**Divine Attribute:** Constitution or Wisdom
-**Divine Font:** [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
-**Divine Sanctification:** can choose holy
-**Divine Skill:** [Crafting](https://2e.aonprd.com/Skills.aspx?ID=37)
-**Favoured Weapon:** [warhammer](https://2e.aonprd.com/Weapons.aspx?ID=403)
-**Domains:** [creation](https://2e.aonprd.com/Domains.aspx?ID=68), [earth](https://2e.aonprd.com/Domains.aspx?ID=73), [family](https://2e.aonprd.com/Domains.aspx?ID=74), [protection](https://2e.aonprd.com/Domains.aspx?ID=90)
-**Cleric Spells:** 1st: [mindlink](https://2e.aonprd.com/Spells.aspx?ID=1603), 3rd: [earthbind](https://2e.aonprd.com/Spells.aspx?ID=1506), 4th: [creation](https://2e.aonprd.com/Spells.aspx?ID=1477)
+- **Divine Attribute:** Constitution or Wisdom
+- **Divine Font:** [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
+- **Divine Sanctification:** can choose holy
+- **Divine Skill:** [Crafting](https://2e.aonprd.com/Skills.aspx?ID=37)
+- **Favoured Weapon:** [warhammer](https://2e.aonprd.com/Weapons.aspx?ID=403)
+- **Domains:** [creation](https://2e.aonprd.com/Domains.aspx?ID=68), [earth](https://2e.aonprd.com/Domains.aspx?ID=73), [family](https://2e.aonprd.com/Domains.aspx?ID=74), [protection](https://2e.aonprd.com/Domains.aspx?ID=90)
+- **Cleric Spells:** 1st: [mindlink](https://2e.aonprd.com/Spells.aspx?ID=1603), 3rd: [earthbind](https://2e.aonprd.com/Spells.aspx?ID=1506), 4th: [creation](https://2e.aonprd.com/Spells.aspx?ID=1477)
 
 ### Divine Intercession
 Barúm makes his pleasure or displeasure known through unsubtle signs.

@@ -1,10 +1,10 @@
 The Octavian Faith is a polytheistic religion formed around the Eight Makers of the [[Celestial Pantheon]]. The High Seat of the Octavian Faith is established in the [[Halmyr|Holy Kingdom of Halmyr]].
 
 ### Basic Info
-**Symbol:** A Grail within an Eight Pointed Star
-**Key People:** The Pope
-**Founded in:** 0 P.D
-**Current Pope:** [[Asenia Fasro]]
+- **Symbol:** A Grail within an Eight Pointed Star
+- **Key People:** The Pope
+- **Founded in:** 0 P.D
+- **Current Pope:** [[Asenia Fasro]]
 
 ### Background
 The Octavian Faith is known to operate across [[Tirathen]], particularly on the continent of [[Valloryn]]. Churches and chapels are present in almost all major settlements, towns and villages in several countries with cathedrals present in most major cities. The church also oversees the vast majority of children's education through the provision of Sunday Schools and classes delivered in rooms attached to the various chapels and churches. It is also common to see musical performances held in church venues.

@@ -2,22 +2,22 @@
  
 The Golden Judge is a member of the [[Celestial Pantheon]], specifically one of the Four Watchers that did not make a sentient creature. Instead choosing to oversee their siblings work.
 
-**Edicts:** bring civilization to the frontiers, earn wealth through hard work and trade, follow the rule of law
-**Anathema:** engage in banditry or piracy, steal, undermine a law-abiding court
-**Areas of Concern:** cities, law, merchants, and wealth
-**Religious Symbol:** golden key
-**Sacred Animal:** monkey
-**Sacred Colour(s):** gold, silver
-**Pantheons/Covenants:** [[Celestial Pantheon]]
+- **Edicts:** bring civilization to the frontiers, earn wealth through hard work and trade, follow the rule of law
+- **Anathema:** engage in banditry or piracy, steal, undermine a law-abiding court
+- **Areas of Concern:** cities, law, merchants, and wealth
+- **Religious Symbol:** golden key
+- **Sacred Animal:** monkey
+- **Sacred Colour(s):** gold, silver
+- **Pantheons/Covenants:** [[Celestial Pantheon]]
 
 ### Devotee Benefits
-**Divine Attribute:** Constitution or Intelligence
-**Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146) or [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
-**Divine Sanctification:** can choose holy or unholy
-**Divine Skill:** [Society](https://2e.aonprd.com/Skills.aspx?ID=47)
-**Favoured Weapon:** [crossbow](https://2e.aonprd.com/Weapons.aspx?ID=425)
-**Domains:** [cities](https://2e.aonprd.com/Domains.aspx?ID=66), [earth](https://2e.aonprd.com/Domains.aspx?ID=73), [travel](https://2e.aonprd.com/Domains.aspx?ID=93), [wealth](https://2e.aonprd.com/Domains.aspx?ID=99)
-**Cleric Spells:** 1st: [illusory object](https://2e.aonprd.com/Spells.aspx?ID=1569), 4th: [creation](https://2e.aonprd.com/Spells.aspx?ID=1477), 7th: [planar palace](https://2e.aonprd.com/Spells.aspx?ID=1634)
+- **Divine Attribute:** Constitution or Intelligence
+- **Divine Font:** [harm](https://2e.aonprd.com/Spells.aspx?ID=146) or [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
+- **Divine Sanctification:** can choose holy or unholy
+- **Divine Skill:** [Society](https://2e.aonprd.com/Skills.aspx?ID=47)
+- **Favoured Weapon:** [crossbow](https://2e.aonprd.com/Weapons.aspx?ID=425)
+- **Domains:** [cities](https://2e.aonprd.com/Domains.aspx?ID=66), [earth](https://2e.aonprd.com/Domains.aspx?ID=73), [travel](https://2e.aonprd.com/Domains.aspx?ID=93), [wealth](https://2e.aonprd.com/Domains.aspx?ID=99)
+- **Cleric Spells:** 1st: [illusory object](https://2e.aonprd.com/Spells.aspx?ID=1569), 4th: [creation](https://2e.aonprd.com/Spells.aspx?ID=1477), 7th: [planar palace](https://2e.aonprd.com/Spells.aspx?ID=1634)
 
 ### Divine Intercession
 Oranthys' gifts take the form of riches, while his ire tends to cause offenders to lose wealth

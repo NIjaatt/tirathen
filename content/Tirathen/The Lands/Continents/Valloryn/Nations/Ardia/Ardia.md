@@ -9,7 +9,7 @@ Ardia is a protectorate state located in southern [[Valloryn]]. Ardia is represe
 - **Government:** Theocratic Protectorate
 - **High Protector:** [[Edywn Thrace]]
 
-#### **Formation:** 
+#### **Formation:**
  - Believed to be first settled around ~300 P.C
  - Officially recognised as a sovereign nation in 350 P.D
  - Halmyran occupation began in 692 A.C

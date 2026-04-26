@@ -4,22 +4,22 @@ While many people consider this to be more of a vice than a virtue, Myrren and h
 
 The Mischievous Justice is a member of the [[Heroic Pantheon]], and rose to divinity during [[The Age of Calamity]].
 
-**Edicts:** seek out and challenge oppressors and tyrants, defend friends and the innocent, engage in mischief that doesn’t harm others
-**Anathema:** suffer a bully’s insult to you or another without retort, abandon a friend in need, attribute a lucky turn of events to your own skill
-**Areas of Concern:** battle, fortune, mischief
-**Religious Symbol:** short sword with three notches
-**Sacred Animal:** lizard
-**Sacred Colour(s):** green, red
-**Pantheons/Covenants:** [[Heroic Pantheon]]
+- **Edicts:** seek out and challenge oppressors and tyrants, defend friends and the innocent, engage in mischief that doesn’t harm others
+- **Anathema:** suffer a bully’s insult to you or another without retort, abandon a friend in need, attribute a lucky turn of events to your own skill
+- **Areas of Concern:** battle, fortune, mischief
+- **Religious Symbol:** short sword with three notches
+- **Sacred Animal:** lizard
+- **Sacred Colour(s):** green, red
+- **Pantheons/Covenants:** [[Heroic Pantheon]]
 
 ### Devotee Benefits
-**Divine Attribute:** Dexterity or Charisma
-**Divine Font:** [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
-**Divine Sanctification:** can choose holy
-**Divine Skill:** [Thievery](https://2e.aonprd.com/Skills.aspx?ID=50)
-**Favoured Weapon:** [shortsword](https://2e.aonprd.com/Weapons.aspx?ID=398)
-**Domains:** [confidence](https://2e.aonprd.com/Domains.aspx?ID=67), [luck](https://2e.aonprd.com/Domains.aspx?ID=81), [trickery](https://2e.aonprd.com/Domains.aspx?ID=94), [zeal](https://2e.aonprd.com/Domains.aspx?ID=100)
-**Cleric Spells:** 1st: [fleet step](https://2e.aonprd.com/Spells.aspx?ID=1531), 2nd: [laughing fit](https://2e.aonprd.com/Spells.aspx?ID=1583), 5th: [cloak of colors](https://2e.aonprd.com/Spells.aspx?ID=1977)
+- **Divine Attribute:** Dexterity or Charisma
+- **Divine Font:** [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
+- **Divine Sanctification:** can choose holy
+- **Divine Skill:** [Thievery](https://2e.aonprd.com/Skills.aspx?ID=50)
+- **Favoured Weapon:** [shortsword](https://2e.aonprd.com/Weapons.aspx?ID=398)
+- **Domains:** [confidence](https://2e.aonprd.com/Domains.aspx?ID=67), [luck](https://2e.aonprd.com/Domains.aspx?ID=81), [trickery](https://2e.aonprd.com/Domains.aspx?ID=94), [zeal](https://2e.aonprd.com/Domains.aspx?ID=100)
+- **Cleric Spells:** 1st: [fleet step](https://2e.aonprd.com/Spells.aspx?ID=1531), 2nd: [laughing fit](https://2e.aonprd.com/Spells.aspx?ID=1583), 5th: [cloak of colors](https://2e.aonprd.com/Spells.aspx?ID=1977)
 
 ### Divine Intercession
 Myrren's pleasure most often manifests as improbably good luck, while her displeasure creates startling misfortune.
