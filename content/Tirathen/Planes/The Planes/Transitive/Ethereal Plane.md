@@ -1,0 +1,5 @@
+The Ethereal Plane, also known as the **Space Between** is a vast, misty realm overlapping each of the Inner Planes. Formed by the interacting tidal forces of creation and destruction from [[Creation's Forge]] and [[the Void]]
+
+While mortals most often use the Ethereal Plane as a means of transit, moving by force of will in the absence of gravity to bypass barriers on their own plane, the Ethereal hosts dangers and wonders, things lost or abandoned in the mists. Predatory monsters, ether spiders, hags, and all manner of incorporeal undead roam the Space Between.
+  
+While travellers can easily become lost in the mists with little to guide them, the plane does host some permanent structures, drawing adventurers or dissuading them. One such location, the House of the Itinerant Soul, houses wayward or lost souls, offering visitors shelter and a way to avoid turning into undead while avoiding the pull of the [[Lifestream]]. The grand cathedral also serves as a focus for mortal planar travellers, given its safety and the presence of friendly spirits willing to serve as guides in the surrounding mists.

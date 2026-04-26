@@ -1,0 +1,5 @@
+The [[Frozen North]] has always been and cold, harsh land. Life there is tough for the [[Free Tribes]], who are unable to sustainably grow crop and mostly live off animals and trained to hunt from a young age.
+
+However, in more recent years the north has gotten colder and harsher. The animals typically hunted by the [[Free Tribes]] and other food sources began to die out, unable to withstand the encroaching cold. As a result, the Northern Folk were forced to begin trekking south. 
+
+By 1336, more and more Northerners were trekking southbound, trying to escape into the warm lands of [[Korvia]], much to their annoyance and displeasure. [[Korvia]] sent a large number of forces to the border to secure it, and keep the Northerners out. Some Northerners resisted, and made it through, other's didn't make it. The rest saw they could go no further south and either returned to their homes or camped next the border forming a massive refuge camp.

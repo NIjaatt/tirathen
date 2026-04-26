@@ -1,0 +1,1 @@
+Dornach is the central-eastern region of the [[Heartlands]]. It hosts the capital of the [[Elovan|Elovanite Principality]]. To it's west, lies the capital region of the [[Valdyr|Kingdom of Valdyr]], [[Brenvar]]. To it's southwest, lies the region of [[Thryss]], and to it's east lies the region of [[Skeld]].

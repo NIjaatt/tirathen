@@ -1,0 +1,6 @@
+Lohtala Searunner is one of the Sea Lords of the [[Fourfold Dominion]]. A Dwarf who has spent more of her life below deck than above it, Lohtala commands through sheer implacable force.
+
+### The Ironclad
+Lohtala isn't the most graceful captain on the Emerald Sea, but her ship, the Ironclad is almost certainly the most difficult to sink of her fellow Lords. Her ship is reinforced, modified, and rearmed in ways that no ordinary shipwright would sanction, and her crew share their captain's philosophy that endurance wins wars where speed merely wins races. They are a brawling crew who take prizes by boarding rather than outrunning, and they have the scars to show for it.
+
+The Ironclad's most celebrated deed is the breaking of the harbour chain at the [[Korvia|Korvian]] region of [[Voryn]] during a disputed trade dispute in 1343 A.C, when Lohtala simply sailed her ship through it at full speed, opened the harbour to the Dominion's fleet and extracted six merchant vessels. Losing only a single crew member to enemy fire.

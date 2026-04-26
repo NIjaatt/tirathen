@@ -1,0 +1,1 @@
+Skeld is the eastern region of the [[Heartlands]]. To it's west, lies the capital region of the [[Elovan|Elovanite Principality]], [[Dornach]]. To it's east lies the [[Taldar|Fallen Kingdom of Taldar]], and commonly referred to as the [[Badlands]].

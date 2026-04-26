@@ -1,0 +1,5 @@
+The oldest house on the [[High Council of Valeniir|Council]] by any credible measure, House Sylvar predates the retreat from [[Valloryn]] entirely. Their seat in [[Valeniir]]'s government was not granted after the [[the Spellplague|Spellplague]], but carried with them when they fled Erebos. Their survival is the cornerstone of their house identity and the foundation of their authority. When a Sylvar speaks, it speaks with the weight of everything that came before.
+
+The current head of House Sylvar is Elowyn Sylvar, an elder who witnessed the devastation of the Spellplague, and the ferocity of the [[Human|Humans]] firsthand. Their grief is not performative. They have seen Erebos and they watched it be taken from them. They will never vote to trust the world that allowed their land from them. They believe it is the only honest position available to someone who was lived through such times.
+
+Sylvar is also renowned within Valeniir for its lineage of lorekeepers and historians. They maintain the most complete record of pre-Spellplague [[Elf|Elven]] history of any house.

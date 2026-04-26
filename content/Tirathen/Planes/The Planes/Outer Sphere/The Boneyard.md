@@ -1,0 +1,11 @@
+The Boneyard, sometimes referred to as **The House of Dust**, **Purgatory** or the **Spirelands**, is a neutral plane where the souls of dead mortals from the [[Material Plane]] are judged by the goddess [[Nephira]]. It rests atop Nephira's Spire, jutting out from [[Axis]] into the [[Astral Plane]]. Souls are brought to the Boneyard by the [[Lifestream]], and after judgement, are sent to the appropriate plane or domain in the Outer Sphere. Some arrive at the Boneyard with their choices already made or pacts signed, but others are judged by a series of courts.
+
+### Description
+The Boneyard appears as a vast necropolis filled with countless courtyards, monuments, graves, and forums teeming with the souls of the dead awaiting judgement. Each of these courts is shaped and styled to correspond to one of the Eight Outer Planes, and is overseen and guarded by representatives from each of their presiding gods.
+
+### Inhabitants
+The souls of the neutral dead remain in the Boneyard and are transformed in the lands beyond Nephira's palace and the necropolis into aeons. These strange creatures act as the goddess' advisors, caretakers, explorers, guardians, guides, and even soldiers in times of war. The souls of the neutral dead also form into psychopomps who serve as the bureaucracy of death. In the unclaimed wilderness of Boneyard wolf-like packs of esoboks patrol, protecting the restful dead from both mortal and outsider intruders who would disturb them.
+
+Crypt dragons are born in the Boneyard, but often prefer to make their permanent lairs in the Material Plane and return to the Boneyard only to escort and represent especially favoured souls.
+
+The God of the End Times, [[Ophynyx]], hangs eternally over the Boneyard like a twisted moon. It is prophesied that when Nephira judges the last soul, Ophynyx shall descend to meet with Nephira, on her crumbling throne, before consuming her and feasting on the Lifestream, and later the Universe itself. Ophynyx too will consume himself once he has confirmed that the Universe is no more.

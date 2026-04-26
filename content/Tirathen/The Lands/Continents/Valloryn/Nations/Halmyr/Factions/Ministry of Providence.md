@@ -1,0 +1,3 @@
+The Ministry of Providence serves as the Pope’s hidden hand, gathering intelligence, uncovering threats, and quietly shaping events both within [[Halmyr]] and beyond its borders. 
+
+Its agents move unseen among nobles, merchants, clergy, and commonfolk alike, concealing their allegiance beneath countless identities. The Ministry exists to ensure that no plot against the [[Octavian Faith]] goes unnoticed, and that the will of the High Seat reaches even the most distant corners of Tirathen.

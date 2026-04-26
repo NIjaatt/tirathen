@@ -1,0 +1,3 @@
+During the Age of Founding, Life truly began and flourished without threat of destruction. The First Civilisations were founded, one of which is believed to be the [[Obellia|Obellian Empire]].
+
+All in all, not much is known of this age. Only that the time period lasted roughly 1000 years. The reason why this is even known is due to leftover ruins and transcribed language of the Obellian Empire which was extremely advanced for the time and had created a functioning calendar.

@@ -1,0 +1,1 @@
+The World Tree's of [[Valloryn]] are believed to be placed and blessed by the [[Celestial Pantheon|Celestial Gods]] after the end of [[The Dawn War]]. Originally, there were twelve World Tree's on the lands of Valloryn and Valeniir. However, in the current era only two reside on Valloryn while the rest remained untouched on Valeniir.

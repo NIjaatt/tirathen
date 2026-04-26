@@ -1,0 +1,23 @@
+Five Monsters born from the destructive nature of [[Nhalgorath]]. Legends have been passed down through the ages. The most current version of the story goes:
+
+Thousands of years ago, during the [[The Age of Founding|Founding Age]]; a man and a woman fell in love, and had a child together. The child was sickly and of weak constitution, and needed medicine to survive. So the man went to war to earn coin for his family. Time passed, and the woman heard word of the man's death, not but two days from their home, and robbed of his coin. The woman spoke out, but was lambasted by her fellows, so she cursed them and grieved with a fierce fervour.
+
+Her fellows deemed her a witch by her response, and her child a spawn of evil. They crafted a box, and sealed the woman and child inside before hurling the box into the ocean. The box drifted for days, while the woman sang to her dying child. Days turned to weeks, and by the time the box touched land once again, her child was dead. She broke free from the box, and took her dead child to land, burying it under a large, beautiful oak tree.
+
+There, she prayed to every god she could think of, and wished for destruction and devastation. [[Nhalgorath]], the Enemy of All answered. The oak tree grew in size, it's bark turning black as it's rotted branches produced five fruits, for five dooms.
+
+### The Five Dooms
+The first fruit, was eaten by a lizard. With a single bite of the fruit, the lizard began to grow and grow, it's body twisting and becoming grotesque. It's scales hardened, as great spikes emerged from it's body. It grew and grew until it became colossal in size. Hunched, and resembling a dinosaur, the lizard had become something else entirely. It's sole purpose, to grant the woman her desire. The destruction of all. So was born the **Tarrasque**, the First Doom of Tirathen, and the Father of Monsters.
+
+The second fruit, was eaten by a worm. With a single bite of the fruit, the worm began to grow and grow, it's body twisting and elongating. It's soft flesh hardened into scales, as limbs grew out from it's body. It's breath now of fire and the hurricane, the worm had become something else entirely. It's sole purpose, to grant the woman her desire. The destruction of all. So was born **Fafnheir**, the Second Doom of Tirathen, and the Father of all Linnorms.
+
+The third fruit, was devoured by a swarm of flies and insects. As the flies and insects grew and grew, never ceasing their devouring of the fruit. Their bodies twisted and merged into each other. Their flesh formed a shell like a beetle's, veined wings sprung from it's back like broken glass. It's torso, slug-like and moist, was covered in chitinous armour. The creature bears four arms, two tipped in pincers; and with a drooling maw that forms most of its head and dozens of eyes arrayed above its mouth. Surrounded by swarming insects. It's sole purpose, to grant the woman her desire. The destruction of all. So was born **Kothogaz**, the Third Doom of Tirathen, and the Swarm Mother.
+
+The fourth fruit, was eaten by a centipede. With a single bit of the fruit, the centipede grew and grew, it's body elongating. It's scales hardened as it's body became magma, flames bursting from between the seams of its scales. Now of living flame and magma, the centipede had become something else entirely. It's sole purpose, to grant the woman her desire. The destruction of all. So was born **Xotani**, the Fourth Doom of Tirathen, and the Tyrant of the Darklands.
+
+The fifth fruit, was not eaten for many a year as creatures grew a natural aversion to the dark tree. One day, the woman in her old age returned to the tree. Plucked the fruit herself and hurled the fruit into the ocean. Where it fell into the jaws of a dead shark. The flesh of the fruit, pierced by it's teeth. So the fruit infected the dead shark, taking over it's mind and changing it's body. The dead shark grew and grew, it's body pitch black, with glowing red eyestalks and thousands of teeth. It's sole purpose, to grant the woman her desire. The destruction of all. So was born **Nasurgeth**, the Fifth Doom of Tirathen, and the Terror of the Deep.
+
+### Destruction and Devastation
+So the Dooms of [[Tirathen]] were set upon the lands. Each a force of nature, wiping out the peoples of Tirathen as they rampaged across the lands. Leaving the people terrified for nearly a century.
+
+However, in the twilight of the century, heroes rose and fought against the Dooms of Tirathen. Pushing them back, and even slaying one, though it is unknown which one was slain. Many of these heroes ascended to divinity, and make up the [[Heroic Pantheon]].

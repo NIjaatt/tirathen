@@ -1,0 +1,1 @@
+Thryss is the southernmost region of the [[Heartlands]]. To it's northwest, lies the region of [[Tharros]]. To it's north, lies the capital region of the [[Valdyr|Kingdom of Valdyr]], [[Brenvar]]. To it's northeast, lies the capital region of the [[Elovan|Elovanite Principality]], [[Dornach]].

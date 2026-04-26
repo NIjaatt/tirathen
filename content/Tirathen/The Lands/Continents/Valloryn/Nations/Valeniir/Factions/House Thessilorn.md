@@ -1,0 +1,5 @@
+The youngest of the five houses in terms of senior membership, House Thessilorn is where the ambition lives. They are not survivors of the [[the Spellplague|Spellplague]]. They do not carry grief or contempt or the memory of Erebos in any personal sense. They feel themselves burdened by the accumulated frustration of generations of [[Elf|Elves]] who were born into a nation that had deliberately made itself small, and who do not intend to spend the next several centuries in the same condition.
+
+House Thessilorn does not talk about re-engagement as a cautious reopening but rather a beginning. [[Valloryn]] has stabilised, new powers have risen. They believe that [[Valeniir]], with its ancient knowledge, its dormant gate network, and its centuries of internal refinement, is positioned to be something significant in the new world if it chooses to be.
+
+House Thessilorn is notably diverse in its pursuits, producing warriors, artists, and scholars in roughly equal measure. They current head of the House is Aldaen Thessilorn.

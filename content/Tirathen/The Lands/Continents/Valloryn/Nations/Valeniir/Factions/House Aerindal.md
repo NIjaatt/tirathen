@@ -1,0 +1,5 @@
+House Aerindal have watched the outside world across the Long Mourning closely, carefully, and without sentiment. Their conclusion of present day [[Valloryn]] is that it does not merit the risk. The shorter lived races build and destroy in cycles too rapid and too chaotic for any meaningful relationship to take root. The other peoples of Valloryn are too entangled with power structures to be reliably separated from them. The world has stabilised, yes. But Aerindal believes it will destabilise again, and soon.
+
+Caeyr Aerindal, current head of his House is a contemporary of [[House Sylvar|House Sylvar's]] elder, though considerably less mournful in temperament. They are precise, analytical, and carry a dry patience that younger council members find quietly unnerving.
+
+House Aerindal also produces some of [[Valeniir]]'s most accomplished arcane scholars, and their study of the outside world is conducted through observation, intelligence gathered by the ward-watchers, and the occasional unsanctioned contact that they officially deny.

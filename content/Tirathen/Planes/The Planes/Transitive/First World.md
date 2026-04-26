@@ -1,0 +1,9 @@
+The First World is so called because it is believed to be the gods' first draft of a subsequent plane that would later split into the [[Material Plane]] and the [[The Netherworld|Netherworld]]. It is a transitive plane that overlaps with the Material Plane.
+
+### Geography
+This realm, also known as the **Feywild**, is one of extremes. Bestial, primal, and beautiful with colours and sensations brighter and more intense than the mundane world created after it. Distance and time are wildly inconsistent, such that mortal travellers might spend an hour or a day within the First World, only to find a century or maybe only a few seconds passed once they return to their own plane. Mirroring mercurial fey whimsy, the First World’s laws of nature constantly and unpredictably change. 
+
+### Inhabitants
+The First World is populated by fey and the divine entities known as the Eldest. The [[Lifestream]] also passes through the First World from [[Creation's Forge]] toward the [[Ethereal Plane]] and the Material Plane, and new fey are made from the soul energy left in it's wake. However, natives of the First World are themselves blocked from the Lifestream, making its inhabitants effectively immortal as long as they remain on the plane. Fey refer to this exclusion as the **Great Abandonment**.
+
+When a native of the First World "dies" on the plane, their soul attempts to join the [[Lifestream]], only to be bounced off and simply return to the First World, reforming after a few days; in some cases, such as sprites, they return as a new form of fey. Should a fey native to the First World die on another plane, they cease to exist in true death. This discourages First World fey from visiting other planes and also makes them relatively reckless with life in the First World, including the lives of mortal visitors, which can have tragic consequences.
