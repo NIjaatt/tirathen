@@ -2,18 +2,18 @@
 
 ### I. The Imperial Apex
 **The Emperor**
-- Absolute symbolic authority
-- Final legitimacy for all power
-- Source of titles, commands, and law
+- Is the absolute symbolic authority
+- The final legitimacy for all power
+- The source of titles, commands, and law
 
 **The Two Hands of the Emperor**
-- **The Chancellor** - governs the Empire
-- **The Marshal** - commands the Empire’s wars
+- **The Chancellor** governs the Empire
+- **The Marshal** commands the Empire’s wars
 
 ### II. The Imperial Blood
 **The Royal Family**
-- Princes, princesses, consorts
-- Immune to most prosecution
+- The Queen, Princes, princesses and consorts
+- They are immune to most prosecution
 - Treated as living symbols of the Empire
 
 ### III. The Great Nobility

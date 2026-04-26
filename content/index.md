@@ -9,6 +9,9 @@ This document gives a relatively quick outline of the important lore of Tirathen
 [[Tirathen|The Lands]]
 This document contains all the lands and nations of Tirathen.
 
+[[Web_alt-Tirathen.webp|World Map]]
+Explore the known lands of Tirathen.
+
 [[Ancestry Overview|Ancestries]]
 This document lists all Ancestries found within Tirathen.
 
