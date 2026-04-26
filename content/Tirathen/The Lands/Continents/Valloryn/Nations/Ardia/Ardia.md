@@ -1,17 +1,18 @@
 Ardia is a protectorate state located in southern [[Valloryn]]. Ardia is represented by a White Stag with an Eight Pointed Star over it's head.
 
 ### Basic Info
-**Coat of Arms:** A White Stag with an Eight Pointed Star over it's head.
-**Demonym:** Ardian
-**Location:** The [[Southlands]]
-**Capital:** [[Kraggath]]
-**Religion:** The [[Octavian Faith]]
-**Government:** Theocratic Protectorate
-+ **High Protector:** 
- **Formation:** 
- + Believed to be first settled around ~300 P.C
- + Officially recognised as a sovereign nation in 350 P.D
- + Halmyran occupation began in 692 A.C
+- **Coat of Arms:** A White Stag with an Eight Pointed Star over it's head.
+- **Demonym:** Ardian
+- **Location:** The [[Southlands]]
+- **Capital:** [[Kraggath]]
+- **Religion:** The [[Octavian Faith]]
+- **Government:** Theocratic Protectorate
+- **High Protector:** [[Edywn Thrace]]
+
+#### **Formation:** 
+ - Believed to be first settled around ~300 P.C
+ - Officially recognised as a sovereign nation in 350 P.D
+ - Halmyran occupation began in 692 A.C
 
 ### History
 #### Pre-Humans
