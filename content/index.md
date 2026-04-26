@@ -1,3 +1,6 @@
+---
+title: The World of Tirathen
+---
 Welcome to the world of Tirathen. Built from the ground up for the purpose of playing Pathfinder 2e. Games are run as per the Core books operates minus a few little details.
 
 [[Lore Primer]]
