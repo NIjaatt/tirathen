@@ -1,3 +1,3 @@
-Llunys is the first, natural moon of [[Tirathen]]. Llunys is tidally locked, and thus always shows the same face to its planet, causing much speculation about what actually is on the dark side of the moon.
+Llunys is the first, natural moon of [[Tirathen]]. Llunys is tidally locked, and thus always shows the same face to its planet, causing much speculation about what actually is on the dark side of the moon. Llunys completes a full cycle around Tirathen every 6 days.
 
 Size-wise, the moon has a surface just two percent that of Tirathen's. It also orbits Tirathen closer than its sister satellite, [[Belegyr]]. Due to its connection to the tides, some cultures in coastal regions refer to Tirathen's moon as [[Lorrenil|Lorrenil's]] Mirror, believing it reflects the primordial god of water's mood.

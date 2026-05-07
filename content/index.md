@@ -21,6 +21,9 @@ This document lists all the deities, pantheons and religions of Tirathen.
 [[History]]
 This document lists the written and spoken history of Tirathen.
 
+[[Octavian Calendar|Time]]
+This document lists the time and calendar system of Tirathen.
+
 [[The Great Beyond]]
 This document lists all the planes of existence.
 

@@ -14,7 +14,7 @@ Tirathen is not a world at peace. It is a world scarred by disasters it has not 
 
 **The Age of Darkness** followed when an asteroid struck the moon **Belegyr**, sending fragments raining onto the world and blocking out the sun for five hundred years. It destroyed civilisations that had barely started to recover.
 
-**The Age of Adventure** is now. The sun has been back for over a thousand years. Nations have rebuilt, or tried to. And something is stirring again, felt in the air and the shifting currents of the seas, erratic monsters and animals, and winters that do not end.
+**The Age of Adventure** is now. The sun has been back for nearly a thousand years. Nations have rebuilt, or tried to. Yet something is stirring again, felt in the air and the shifting currents of the seas, erratic monsters and animals, and winters that do not end.
 
 ## The Gods
 **The Celestial Pantheon** are the original creator gods, the **Eight Makers** who shaped the world's peoples and the **Four Watchers** who observed. They rarely intervene directly, but their influence shapes every culture.
