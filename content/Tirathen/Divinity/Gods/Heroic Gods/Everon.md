@@ -15,7 +15,7 @@ The Golden Lion is a member of the [[Heroic Pantheon]], and rose to divinity dur
 - **Divine Font:** [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
 - **Divine Sanctification:** can choose holy
 - **Divine Skill:** [Intimidation](https://2e.aonprd.com/Skills.aspx?ID=40)
-- **Favoured Weapon:** [fist]([https://2e.aonprd.com/Weapons.aspx?ID=399](https://2e.aonprd.com/Weapons.aspx?ID=356))
+- **Favoured Weapon:** [fist](https://2e.aonprd.com/Weapons.aspx?ID=356)
 - **Domains:** [cities](https://2e.aonprd.com/Domains.aspx?ID=66), [family](https://2e.aonprd.com/Domains.aspx?ID=74), [fire](https://2e.aonprd.com/Domains.aspx?ID=76), [sun](https://2e.aonprd.com/Domains.aspx?ID=92)
 - **Cleric Spells:** 1st: [breathe fire](https://2e.aonprd.com/Spells.aspx?ID=1457), 3rd: [fireball](https://2e.aonprd.com/Spells.aspx?ID=1530), 4th: [fire shield](https://2e.aonprd.com/Spells.aspx?ID=1529)
 
