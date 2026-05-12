@@ -15,7 +15,7 @@ The Great Mother is a member of the [[Celestial Pantheon]], specifically one of 
 - **Divine Font:** [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
 - **Divine Sanctification:** can choose holy
 - **Divine Skill:** [Medicine](https://2e.aonprd.com/Skills.aspx?ID=42)
-- **Favoured Weapon:** [scimitar](https://2e.aonprd.com/Weapons.aspx?ID=393)
+- **Favoured Weapon:** [mace](https://2e.aonprd.com/Weapons.aspx?ID=362)
 - **Domains:** [fire](https://2e.aonprd.com/Domains.aspx?ID=76), [healing](https://2e.aonprd.com/Domains.aspx?ID=78), [sun](https://2e.aonprd.com/Domains.aspx?ID=92), [truth](https://2e.aonprd.com/Domains.aspx?ID=95)
 - **Cleric Spells:** 1st: [breathe fire](https://2e.aonprd.com/Spells.aspx?ID=1457), 3rd: [fireball](https://2e.aonprd.com/Spells.aspx?ID=1530), 4th: [wall of fire](https://2e.aonprd.com/Spells.aspx?ID=1748)
 

@@ -15,7 +15,7 @@ The First Star is a member of the [[Celestial Pantheon]], specifically one of th
 - **Divine Font:** [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
 - **Divine Sanctification:** can choose holy
 - **Divine Skill:** [Acrobatics](https://2e.aonprd.com/Skills.aspx?ID=34)
-- **Favoured Weapon:** [starknife](https://2e.aonprd.com/Weapons.aspx?ID=399)
+- **Favoured Weapon:** [scimitar](https://2e.aonprd.com/Weapons.aspx?ID=393)
 - **Domains:** [dreams](https://2e.aonprd.com/Domains.aspx?ID=72), [luck](https://2e.aonprd.com/Domains.aspx?ID=81), [moon](https://2e.aonprd.com/Domains.aspx?ID=84), [travel](https://2e.aonprd.com/Domains.aspx?ID=93)
 - **Cleric Spells:** 1st: [sleep](https://2e.aonprd.com/Spells.aspx?ID=1675), 4th: [translocate](https://2e.aonprd.com/Spells.aspx?ID=1724), 5th: [dreaming potential](https://2e.aonprd.com/Spells.aspx?ID=1504)
 

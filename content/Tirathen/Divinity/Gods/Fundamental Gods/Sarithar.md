@@ -15,7 +15,7 @@ The Waybringer is a member of the [[Celestial Pantheon]], specifically one of th
 - **Divine Font:** [heal](https://2e.aonprd.com/Spells.aspx?ID=148)
 - **Divine Sanctification:** must choose holy
 - **Divine Skill:** [Diplomacy](https://2e.aonprd.com/Skills.aspx?ID=39)
-- **Favoured Weapon:** [jaws](https://2e.aonprd.com/Weapons.aspx?ID=356) or [staff](https://2e.aonprd.com/Weapons.aspx?ID=367)
+- **Favoured Weapon:** [jaws](https://2e.aonprd.com/Weapons.aspx?ID=356) or [starknife](https://2e.aonprd.com/Weapons.aspx?ID=399)
 - **Domains:** [creation](https://2e.aonprd.com/Domains.aspx?ID=68), [freedom](https://2e.aonprd.com/Domains.aspx?ID=77), [protection](https://2e.aonprd.com/Domains.aspx?ID=90), [travel](https://2e.aonprd.com/Domains.aspx?ID=93)
 - **Cleric Spells:** 1st: [anticipate peril](https://2e.aonprd.com/Spells.aspx?ID=2343), 4th: [creation](https://2e.aonprd.com/Spells.aspx?ID=1477), 5th: [summon dragon](https://2e.aonprd.com/Spells.aspx?ID=1697) (can summon any dragon, regardless of tradition), 9th: [falling stars](https://2e.aonprd.com/Spells.aspx?ID=1521)
 
